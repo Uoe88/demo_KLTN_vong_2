@@ -1,0 +1,76 @@
+﻿role,skill_a,skill_b,n_a,n_b,n_both,pct_both_of_role,p_b_given_a,p_a_given_b,lift,reliable
+Backend,skill_dotnet,skill_csharp,33,23,22,10.9,66.7,95.7,5.86,True
+Backend,skill_typescript,skill_node_js,14,20,8,4.0,57.1,40.0,5.77,True
+Backend,skill_python,skill_fastapi,39,13,13,6.4,33.3,100.0,5.18,True
+Backend,skill_azure,skill_gcp,24,19,9,4.5,37.5,47.4,3.99,True
+Backend,skill_react,skill_javascript,28,19,10,5.0,35.7,52.6,3.8,True
+Backend,skill_redis,skill_rabbitmq,37,16,11,5.4,29.7,68.8,3.75,True
+Backend,skill_aws,skill_gcp,48,19,15,7.4,31.2,78.9,3.32,True
+Backend,skill_sql_server,skill_rabbitmq,23,16,6,3.0,26.1,37.5,3.29,True
+Backend,skill_kafka,skill_rabbitmq,45,16,11,5.4,24.4,68.8,3.09,True
+Backend,skill_sql_server,skill_csharp,23,23,8,4.0,34.8,34.8,3.05,True
+Backend,skill_mongodb,skill_rabbitmq,21,16,5,2.5,23.8,31.2,3.01,True
+Backend,skill_oracle,skill_rabbitmq,30,16,7,3.5,23.3,43.8,2.95,True
+Backend,skill_oracle,skill_sql_server,30,23,10,5.0,33.3,43.5,2.93,True
+Backend,skill_kafka,skill_redis,45,37,24,11.9,53.3,64.9,2.91,True
+Backend,skill_rest_api,skill_php,29,12,5,2.5,17.2,41.7,2.9,True
+Frontend,skill_github_copilot,skill_cursor,10,9,8,6.5,80.0,88.9,11.02,True
+Frontend,skill_claude,skill_github_copilot,9,10,7,5.6,77.8,70.0,9.64,True
+Frontend,skill_claude,skill_cursor,9,9,6,4.8,66.7,66.7,9.19,True
+Frontend,skill_aws,skill_microservices,12,8,6,4.8,50.0,75.0,7.75,True
+Frontend,skill_github,skill_github_copilot,13,10,8,6.5,61.5,80.0,7.63,True
+Frontend,skill_android,skill_ios,16,15,14,11.3,87.5,93.3,7.23,True
+Frontend,skill_github,skill_claude,13,9,6,4.8,46.2,66.7,6.36,True
+Frontend,skill_github,skill_cursor,13,9,6,4.8,46.2,66.7,6.36,True
+Frontend,skill_playwright,skill_jest,9,11,5,4.0,55.6,45.5,6.26,True
+Frontend,skill_ios,skill_react_native,15,16,9,7.3,60.0,56.2,4.65,True
+Frontend,skill_aws,skill_github,12,13,5,4.0,41.7,38.5,3.97,True
+Frontend,skill_android,skill_react_native,16,16,8,6.5,50.0,50.0,3.88,True
+Frontend,skill_java,skill_ios,14,15,6,4.8,42.9,40.0,3.54,True
+Frontend,skill_react_native,skill_jest,16,11,5,4.0,31.2,45.5,3.52,True
+Frontend,skill_ci_cd,skill_jest,23,11,7,5.6,30.4,63.6,3.43,True
+Data Engineer,skill_nosql,skill_r,22,12,10,4.5,45.5,83.3,8.41,True
+Data Engineer,skill_r,skill_flink,12,18,7,3.2,58.3,38.9,7.19,True
+Data Engineer,skill_mysql,skill_sql_server,22,28,15,6.8,68.2,53.6,5.41,True
+Data Engineer,skill_tableau,skill_r,24,12,7,3.2,29.2,58.3,5.4,True
+Data Engineer,skill_agile,skill_r,25,12,7,3.2,28.0,58.3,5.18,True
+Data Engineer,skill_r,skill_hadoop,12,29,8,3.6,66.7,27.6,5.1,True
+Data Engineer,skill_bigquery,skill_redshift,28,25,16,7.2,57.1,64.0,5.07,True
+Data Engineer,skill_postgresql,skill_mysql,35,22,17,7.7,48.6,77.3,4.9,True
+Data Engineer,skill_machine_learning,skill_r,38,12,10,4.5,26.3,83.3,4.87,True
+Data Engineer,skill_tableau,skill_hadoop,24,29,14,6.3,58.3,48.3,4.47,True
+Data Engineer,skill_java,skill_scala,40,28,22,9.9,55.0,78.6,4.36,True
+Data Engineer,skill_docker,skill_kubernetes,38,34,25,11.3,65.8,73.5,4.3,True
+Data Engineer,skill_oracle,skill_sql_server,24,28,13,5.9,54.2,46.4,4.29,True
+Data Engineer,skill_mysql,skill_oracle,22,24,10,4.5,45.5,41.7,4.2,True
+Data Engineer,skill_agile,skill_nosql,25,22,10,4.5,40.0,45.5,4.04,True
+Data Scientist,skill_java,skill_scrum,6,5,5,7.6,83.3,100.0,11.0,True
+Data Scientist,skill_scrum,skill_scala,5,6,5,7.6,100.0,83.3,11.0,True
+Data Scientist,skill_agile,skill_scrum,7,5,5,7.6,71.4,100.0,9.43,True
+Data Scientist,skill_agile,skill_scala,7,6,6,9.1,85.7,100.0,9.43,True
+Data Scientist,skill_java,skill_scala,6,6,5,7.6,83.3,83.3,9.17,True
+Data Scientist,skill_java,skill_agile,6,7,5,7.6,83.3,71.4,7.86,True
+Data Scientist,skill_llm,skill_airflow,9,6,5,7.6,55.6,83.3,6.11,True
+Data Scientist,skill_power_bi,skill_tableau,10,8,6,9.1,60.0,75.0,4.95,True
+Data Scientist,skill_java,skill_r,6,13,5,7.6,83.3,38.5,4.23,True
+Data Scientist,skill_docker,skill_azure,7,12,5,7.6,71.4,41.7,3.93,True
+Data Scientist,skill_gcp,skill_pytorch,9,15,8,12.1,88.9,53.3,3.91,True
+Data Scientist,skill_aws,skill_gcp,14,9,7,10.6,50.0,77.8,3.67,True
+Data Scientist,skill_azure,skill_gcp,12,9,6,9.1,50.0,66.7,3.67,True
+Data Scientist,skill_aws,skill_azure,14,12,9,13.6,64.3,75.0,3.54,True
+Data Scientist,skill_aws,skill_docker,14,7,5,7.6,35.7,71.4,3.37,True
+AI Engineer,skill_agile,skill_business_analysis,25,17,7,2.1,28.0,41.2,5.42,True
+AI Engineer,skill_pytorch,skill_tensorflow,55,39,34,10.3,61.8,87.2,5.21,True
+AI Engineer,skill_cloud_computing,skill_software_architecture,18,25,6,1.8,33.3,24.0,4.39,True
+AI Engineer,skill_docker,skill_kubernetes,54,47,32,9.7,59.3,68.1,4.15,True
+AI Engineer,skill_aws,skill_gcp,59,47,35,10.6,59.3,74.5,4.15,True
+AI Engineer,skill_aws,skill_azure,59,57,41,12.5,69.5,71.9,4.01,True
+AI Engineer,skill_deep_learning,skill_tensorflow,52,39,23,7.0,44.2,59.0,3.73,True
+AI Engineer,skill_azure,skill_gcp,57,47,30,9.1,52.6,63.8,3.68,True
+AI Engineer,skill_kubernetes,skill_mlops,47,49,25,7.6,53.2,51.0,3.57,True
+AI Engineer,skill_rest_api,skill_rag,57,44,27,8.2,47.4,61.4,3.54,True
+AI Engineer,skill_gcp,skill_data_warehouse,47,17,8,2.4,17.0,47.1,3.29,True
+AI Engineer,skill_deep_learning,skill_pytorch,52,55,27,8.2,51.9,49.1,3.11,True
+AI Engineer,skill_java,skill_tensorflow,22,39,8,2.4,36.4,20.5,3.07,True
+AI Engineer,skill_docker,skill_mlops,54,49,24,7.3,44.4,49.0,2.98,True
+AI Engineer,skill_deep_learning,skill_nlp,52,52,24,7.3,46.2,46.2,2.92,True

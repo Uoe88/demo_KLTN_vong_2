@@ -1,0 +1,79 @@
+﻿role,n_jobs_with_skills,tech_group,n_skill_cols_in_group,n_jobs_matched,pct,ci_low_pct,ci_high_pct,avg_n_skills_in_group,role_sample_reliable,n_jobs
+AI Engineer,329.0,Cloud/DevOps,20,167,50.8,45.4,56.1,1.1,True,
+AI Engineer,329.0,AI/LLM,13,312,94.8,91.9,96.7,2.4,True,
+Fullstack,314.0,Cloud/DevOps,20,198,63.1,57.6,68.2,1.8,True,
+Fullstack,314.0,AI/LLM,13,32,10.2,7.3,14.0,0.1,True,
+DevOps/SRE,307.0,Cloud/DevOps,20,293,95.4,92.5,97.3,5.2,True,
+DevOps/SRE,307.0,AI/LLM,13,0,0.0,0.0,1.2,0.0,True,
+Data Engineer,222.0,Cloud/DevOps,20,160,72.1,65.8,77.6,1.7,True,
+Data Engineer,222.0,AI/LLM,13,69,31.1,25.4,37.4,0.6,True,
+Security,221.0,Cloud/DevOps,20,109,49.3,42.8,55.9,1.7,True,
+Security,221.0,AI/LLM,13,0,0.0,0.0,1.7,0.0,True,
+Architect,208.0,Cloud/DevOps,20,160,76.9,70.7,82.1,2.6,True,
+Architect,208.0,AI/LLM,13,4,1.9,0.8,4.8,0.0,True,
+Backend,202.0,Cloud/DevOps,20,114,56.4,49.5,63.1,1.5,True,
+Backend,202.0,AI/LLM,13,16,7.9,4.9,12.5,0.1,True,
+PM/BA,146.0,Cloud/DevOps,20,6,4.1,1.9,8.7,0.0,True,
+PM/BA,146.0,AI/LLM,13,4,2.7,1.1,6.8,0.0,True,
+Data Analyst,147.0,Cloud/DevOps,20,30,20.4,14.7,27.6,0.3,True,
+Data Analyst,147.0,AI/LLM,13,34,23.1,17.0,30.6,0.3,True,
+Mobile,139.0,Cloud/DevOps,20,57,41.0,33.2,49.3,0.8,True,
+Mobile,139.0,AI/LLM,13,0,0.0,0.0,2.7,0.0,True,
+Frontend,124.0,Cloud/DevOps,20,36,29.0,21.8,37.6,0.5,True,
+Frontend,124.0,AI/LLM,13,1,0.8,0.1,4.4,0.0,True,
+QA/Tester,106.0,Cloud/DevOps,20,32,30.2,22.3,39.5,0.5,True,
+QA/Tester,106.0,AI/LLM,13,0,0.0,0.0,3.5,0.0,True,
+Data Scientist,66.0,Cloud/DevOps,20,23,34.8,24.5,46.9,0.7,True,
+Data Scientist,66.0,AI/LLM,13,57,86.4,76.1,92.7,2.5,True,
+AI Engineer,,Soft skill: Bất kỳ ngoại ngữ (gộp),1,94,28.3,23.7,33.4,,True,332.0
+AI Engineer,,Soft skill: English,1,92,27.7,23.2,32.8,,True,332.0
+AI Engineer,,Soft skill: Japanese,1,3,0.9,0.3,2.6,,True,332.0
+AI Engineer,,Soft skill: French,1,1,0.3,0.1,1.7,,True,332.0
+Fullstack,,Soft skill: Bất kỳ ngoại ngữ (gộp),1,139,44.3,38.9,49.8,,True,314.0
+Fullstack,,Soft skill: English,1,131,41.7,36.4,47.2,,True,314.0
+Fullstack,,Soft skill: Japanese,1,20,6.4,4.2,9.6,,True,314.0
+Fullstack,,Soft skill: French,1,3,1.0,0.3,2.8,,True,314.0
+DevOps/SRE,,Soft skill: Bất kỳ ngoại ngữ (gộp),1,109,35.5,30.4,41.0,,True,307.0
+DevOps/SRE,,Soft skill: English,1,108,35.2,30.1,40.7,,True,307.0
+DevOps/SRE,,Soft skill: Japanese,1,7,2.3,1.1,4.6,,True,307.0
+DevOps/SRE,,Soft skill: French,1,0,0.0,0.0,1.2,,True,307.0
+Data Engineer,,Soft skill: Bất kỳ ngoại ngữ (gộp),1,92,40.4,34.2,46.8,,True,228.0
+Data Engineer,,Soft skill: English,1,92,40.4,34.2,46.8,,True,228.0
+Data Engineer,,Soft skill: Japanese,1,5,2.2,0.9,5.0,,True,228.0
+Data Engineer,,Soft skill: French,1,0,0.0,0.0,1.7,,True,228.0
+Security,,Soft skill: Bất kỳ ngoại ngữ (gộp),1,83,37.6,31.4,44.1,,True,221.0
+Security,,Soft skill: English,1,83,37.6,31.4,44.1,,True,221.0
+Security,,Soft skill: Japanese,1,5,2.3,1.0,5.2,,True,221.0
+Security,,Soft skill: French,1,1,0.5,0.1,2.5,,True,221.0
+Architect,,Soft skill: Bất kỳ ngoại ngữ (gộp),1,93,44.5,37.9,51.3,,True,209.0
+Architect,,Soft skill: English,1,91,43.5,37.0,50.3,,True,209.0
+Architect,,Soft skill: Japanese,1,9,4.3,2.3,8.0,,True,209.0
+Architect,,Soft skill: French,1,0,0.0,0.0,1.8,,True,209.0
+Backend,,Soft skill: Bất kỳ ngoại ngữ (gộp),1,51,25.2,19.8,31.7,,True,202.0
+Backend,,Soft skill: English,1,44,21.8,16.6,28.0,,True,202.0
+Backend,,Soft skill: Japanese,1,6,3.0,1.4,6.3,,True,202.0
+Backend,,Soft skill: French,1,4,2.0,0.8,5.0,,True,202.0
+PM/BA,,Soft skill: Bất kỳ ngoại ngữ (gộp),1,57,36.8,29.6,44.6,,True,155.0
+PM/BA,,Soft skill: English,1,50,32.3,25.4,40.0,,True,155.0
+PM/BA,,Soft skill: Japanese,1,9,5.8,3.1,10.7,,True,155.0
+PM/BA,,Soft skill: French,1,0,0.0,0.0,2.4,,True,155.0
+Data Analyst,,Soft skill: Bất kỳ ngoại ngữ (gộp),1,58,37.9,30.6,45.8,,True,153.0
+Data Analyst,,Soft skill: English,1,56,36.6,29.4,44.5,,True,153.0
+Data Analyst,,Soft skill: Japanese,1,3,2.0,0.7,5.6,,True,153.0
+Data Analyst,,Soft skill: French,1,0,0.0,0.0,2.4,,True,153.0
+Mobile,,Soft skill: Bất kỳ ngoại ngữ (gộp),1,63,45.3,37.3,53.6,,True,139.0
+Mobile,,Soft skill: English,1,59,42.4,34.5,50.8,,True,139.0
+Mobile,,Soft skill: Japanese,1,4,2.9,1.1,7.2,,True,139.0
+Mobile,,Soft skill: French,1,1,0.7,0.1,4.0,,True,139.0
+Frontend,,Soft skill: Bất kỳ ngoại ngữ (gộp),1,48,38.7,30.6,47.5,,True,124.0
+Frontend,,Soft skill: English,1,46,37.1,29.1,45.9,,True,124.0
+Frontend,,Soft skill: Japanese,1,6,4.8,2.2,10.2,,True,124.0
+Frontend,,Soft skill: French,1,1,0.8,0.1,4.4,,True,124.0
+QA/Tester,,Soft skill: Bất kỳ ngoại ngữ (gộp),1,18,17.0,11.0,25.3,,True,106.0
+QA/Tester,,Soft skill: English,1,12,11.3,6.6,18.8,,True,106.0
+QA/Tester,,Soft skill: Japanese,1,4,3.8,1.5,9.3,,True,106.0
+QA/Tester,,Soft skill: French,1,2,1.9,0.5,6.6,,True,106.0
+Data Scientist,,Soft skill: Bất kỳ ngoại ngữ (gộp),1,19,28.4,19.0,40.1,,True,67.0
+Data Scientist,,Soft skill: English,1,19,28.4,19.0,40.1,,True,67.0
+Data Scientist,,Soft skill: Japanese,1,0,0.0,0.0,5.4,,True,67.0
+Data Scientist,,Soft skill: French,1,0,0.0,0.0,5.4,,True,67.0

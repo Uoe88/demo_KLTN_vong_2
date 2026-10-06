@@ -1,0 +1,16 @@
+﻿role,n_jobs,n_hard_skills_mean,n_hard_skills_median,n_skill_groups_mean,source,cell_reliable
+AI Engineer,186,5.9,6.0,3.6,ITviec,True
+AI Engineer,329,6.7,6.0,3.7,"TẤT CẢ NGUỒN (tham khảo, không dùng để so sánh vị trí)",True
+AI Engineer,143,7.8,7.0,3.8,XomJobs,True
+Backend,202,8.4,7.0,4.9,ITviec,True
+Backend,202,8.4,7.0,4.9,"TẤT CẢ NGUỒN (tham khảo, không dùng để so sánh vị trí)",True
+Data Engineer,60,6.0,5.0,3.8,ITviec,True
+Data Engineer,222,9.3,8.5,4.4,"TẤT CẢ NGUỒN (tham khảo, không dùng để so sánh vị trí)",True
+Data Engineer,162,10.4,10.5,4.7,XomJobs,True
+Data Scientist,11,5.5,6.0,3.5,ITviec,False
+Data Scientist,11,5.6,5.0,3.7,TopCV,False
+Data Scientist,66,7.7,6.5,4.3,"TẤT CẢ NGUỒN (tham khảo, không dùng để so sánh vị trí)",True
+Data Scientist,44,8.8,9.0,4.6,XomJobs,True
+Frontend,27,6.2,5.0,3.5,ITviec,True
+Frontend,97,7.6,7.0,4.0,LinkedIn,True
+Frontend,124,7.3,7.0,3.9,"TẤT CẢ NGUỒN (tham khảo, không dùng để so sánh vị trí)",True

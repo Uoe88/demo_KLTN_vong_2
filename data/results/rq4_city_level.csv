@@ -1,0 +1,97 @@
+﻿city,level,n_jobs_in_level,n_jobs_city_total,pct_of_city_jobs,ci_low_pct,ci_high_pct,pct_of_all_senior_plus_jobs,city_sample_reliable
+Hồ Chí Minh,Lead/Principal,156,1272,12.3,10.6,14.2,,True
+Hà Nội,Lead/Principal,111,944,11.8,9.9,14.0,,True
+Đà Nẵng,Lead/Principal,12,93,12.9,7.5,21.2,,True
+Remote,Lead/Principal,4,12,33.3,13.8,60.9,,False
+Bắc Ninh,Lead/Principal,1,1,100.0,20.7,100.0,,False
+Hồ chí minh,Lead/Principal,1,1,100.0,20.7,100.0,,False
+Bình Dương,Lead/Principal,0,1,0.0,0.0,79.3,,False
+Cà Mau,Lead/Principal,0,4,0.0,0.0,49.0,,False
+Cần Thơ,Lead/Principal,0,8,0.0,0.0,32.4,,False
+Hà Giang,Lead/Principal,0,4,0.0,0.0,49.0,,False
+Hưng Yên,Lead/Principal,0,1,0.0,0.0,79.3,,False
+Hải Dương,Lead/Principal,0,14,0.0,0.0,21.5,,False
+Hải Phòng,Lead/Principal,0,1,0.0,0.0,79.3,,False
+Lào Cai,Lead/Principal,0,1,0.0,0.0,79.3,,False
+Lạng Sơn,Lead/Principal,0,4,0.0,0.0,49.0,,False
+Nam Định,Lead/Principal,0,1,0.0,0.0,79.3,,False
+Nghệ An,Lead/Principal,0,13,0.0,0.0,22.8,,False
+Ninh Bình,Lead/Principal,0,1,0.0,0.0,79.3,,False
+Phú Thọ,Lead/Principal,0,1,0.0,0.0,79.3,,False
+Quảng Ninh,Lead/Principal,0,1,0.0,0.0,79.3,,False
+Thái Nguyên,Lead/Principal,0,2,0.0,0.0,65.8,,False
+Tây Ninh,Lead/Principal,0,1,0.0,0.0,79.3,,False
+Đồng Nai,Lead/Principal,0,2,0.0,0.0,65.8,,False
+Đồng Tháp,Lead/Principal,0,2,0.0,0.0,65.8,,False
+Hồ Chí Minh,Manager+,78,1272,6.1,4.9,7.6,,True
+Hà Nội,Manager+,36,944,3.8,2.8,5.2,,True
+Hà Giang,Manager+,1,4,25.0,4.6,69.9,,False
+Đà Nẵng,Manager+,1,93,1.1,0.2,5.8,,True
+Bình Dương,Manager+,0,1,0.0,0.0,79.3,,False
+Bắc Ninh,Manager+,0,1,0.0,0.0,79.3,,False
+Cà Mau,Manager+,0,4,0.0,0.0,49.0,,False
+Cần Thơ,Manager+,0,8,0.0,0.0,32.4,,False
+Hưng Yên,Manager+,0,1,0.0,0.0,79.3,,False
+Hải Dương,Manager+,0,14,0.0,0.0,21.5,,False
+Hải Phòng,Manager+,0,1,0.0,0.0,79.3,,False
+Hồ chí minh,Manager+,0,1,0.0,0.0,79.3,,False
+Lào Cai,Manager+,0,1,0.0,0.0,79.3,,False
+Lạng Sơn,Manager+,0,4,0.0,0.0,49.0,,False
+Nam Định,Manager+,0,1,0.0,0.0,79.3,,False
+Nghệ An,Manager+,0,13,0.0,0.0,22.8,,False
+Ninh Bình,Manager+,0,1,0.0,0.0,79.3,,False
+Phú Thọ,Manager+,0,1,0.0,0.0,79.3,,False
+Quảng Ninh,Manager+,0,1,0.0,0.0,79.3,,False
+Remote,Manager+,0,12,0.0,0.0,24.3,,False
+Thái Nguyên,Manager+,0,2,0.0,0.0,65.8,,False
+Tây Ninh,Manager+,0,1,0.0,0.0,79.3,,False
+Đồng Nai,Manager+,0,2,0.0,0.0,65.8,,False
+Đồng Tháp,Manager+,0,2,0.0,0.0,65.8,,False
+Hồ Chí Minh,Senior,534,1272,42.0,39.3,44.7,,True
+Hà Nội,Senior,339,944,35.9,32.9,39.0,,True
+Đà Nẵng,Senior,35,93,37.6,28.5,47.8,,True
+Remote,Senior,5,12,41.7,19.3,68.0,,False
+Hải Dương,Senior,4,14,28.6,11.7,54.6,,False
+Nghệ An,Senior,4,13,30.8,12.7,57.6,,False
+Cà Mau,Senior,3,4,75.0,30.1,95.4,,False
+Cần Thơ,Senior,3,8,37.5,13.7,69.4,,False
+Hà Giang,Senior,1,4,25.0,4.6,69.9,,False
+Hưng Yên,Senior,1,1,100.0,20.7,100.0,,False
+Đồng Nai,Senior,1,2,50.0,9.5,90.5,,False
+Đồng Tháp,Senior,1,2,50.0,9.5,90.5,,False
+Bình Dương,Senior,0,1,0.0,0.0,79.3,,False
+Bắc Ninh,Senior,0,1,0.0,0.0,79.3,,False
+Hải Phòng,Senior,0,1,0.0,0.0,79.3,,False
+Hồ chí minh,Senior,0,1,0.0,0.0,79.3,,False
+Lào Cai,Senior,0,1,0.0,0.0,79.3,,False
+Lạng Sơn,Senior,0,4,0.0,0.0,49.0,,False
+Nam Định,Senior,0,1,0.0,0.0,79.3,,False
+Ninh Bình,Senior,0,1,0.0,0.0,79.3,,False
+Phú Thọ,Senior,0,1,0.0,0.0,79.3,,False
+Quảng Ninh,Senior,0,1,0.0,0.0,79.3,,False
+Thái Nguyên,Senior,0,2,0.0,0.0,65.8,,False
+Tây Ninh,Senior,0,1,0.0,0.0,79.3,,False
+Hồ Chí Minh,Senior+ (gộp 3 bậc trên),768,1272,60.4,57.7,63.0,57.7,True
+Hà Nội,Senior+ (gộp 3 bậc trên),486,944,51.5,48.3,54.7,36.5,True
+Đà Nẵng,Senior+ (gộp 3 bậc trên),48,93,51.6,41.6,61.5,3.6,True
+Remote,Senior+ (gộp 3 bậc trên),9,12,75.0,46.8,91.1,0.7,False
+Hải Dương,Senior+ (gộp 3 bậc trên),4,14,28.6,11.7,54.6,0.3,False
+Nghệ An,Senior+ (gộp 3 bậc trên),4,13,30.8,12.7,57.6,0.3,False
+Cà Mau,Senior+ (gộp 3 bậc trên),3,4,75.0,30.1,95.4,0.2,False
+Cần Thơ,Senior+ (gộp 3 bậc trên),3,8,37.5,13.7,69.4,0.2,False
+Hà Giang,Senior+ (gộp 3 bậc trên),2,4,50.0,15.0,85.0,0.2,False
+Bắc Ninh,Senior+ (gộp 3 bậc trên),1,1,100.0,20.7,100.0,0.1,False
+Hưng Yên,Senior+ (gộp 3 bậc trên),1,1,100.0,20.7,100.0,0.1,False
+Hồ chí minh,Senior+ (gộp 3 bậc trên),1,1,100.0,20.7,100.0,0.1,False
+Đồng Nai,Senior+ (gộp 3 bậc trên),1,2,50.0,9.5,90.5,0.1,False
+Đồng Tháp,Senior+ (gộp 3 bậc trên),1,2,50.0,9.5,90.5,0.1,False
+Bình Dương,Senior+ (gộp 3 bậc trên),0,1,0.0,0.0,79.3,0.0,False
+Hải Phòng,Senior+ (gộp 3 bậc trên),0,1,0.0,0.0,79.3,0.0,False
+Lào Cai,Senior+ (gộp 3 bậc trên),0,1,0.0,0.0,79.3,0.0,False
+Lạng Sơn,Senior+ (gộp 3 bậc trên),0,4,0.0,0.0,49.0,0.0,False
+Nam Định,Senior+ (gộp 3 bậc trên),0,1,0.0,0.0,79.3,0.0,False
+Ninh Bình,Senior+ (gộp 3 bậc trên),0,1,0.0,0.0,79.3,0.0,False
+Phú Thọ,Senior+ (gộp 3 bậc trên),0,1,0.0,0.0,79.3,0.0,False
+Quảng Ninh,Senior+ (gộp 3 bậc trên),0,1,0.0,0.0,79.3,0.0,False
+Thái Nguyên,Senior+ (gộp 3 bậc trên),0,2,0.0,0.0,65.8,0.0,False
+Tây Ninh,Senior+ (gộp 3 bậc trên),0,1,0.0,0.0,79.3,0.0,False

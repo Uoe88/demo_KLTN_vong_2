@@ -1,0 +1,14 @@
+﻿role,band,n_jobs,n_hard_skills_mean,n_hard_skills_median,n_skill_groups_mean,pct_ITviec,pct_LinkedIn,pct_XomJobs
+Backend,Junior (1-2 năm),27,7.4,6.0,4.3,100.0,0.0,0.0
+Backend,Middle (3-4 năm),55,8.0,7.0,4.9,100.0,0.0,0.0
+Backend,Senior (5-7 năm),65,9.8,8.0,5.3,100.0,0.0,0.0
+Backend,Lead+ (>=8 năm),10,10.8,10.0,6.4,100.0,0.0,0.0
+Frontend,Junior (1-2 năm),32,7.4,6.0,4.0,22.0,78.0,0.0
+Frontend,Middle (3-4 năm),31,7.1,6.0,3.8,23.0,77.0,0.0
+Frontend,Senior (5-7 năm),24,8.8,8.0,5.0,17.0,83.0,0.0
+Frontend,Lead+ (>=8 năm),4,8.8,8.0,4.5,25.0,75.0,0.0
+Data Engineer,Fresher (<1 năm),1,6.0,6.0,4.0,0.0,0.0,100.0
+Data Engineer,Junior (1-2 năm),27,8.4,6.0,4.2,37.0,0.0,63.0
+Data Engineer,Middle (3-4 năm),70,9.7,9.5,4.6,27.0,0.0,73.0
+Data Engineer,Senior (5-7 năm),71,9.8,9.0,4.3,23.0,0.0,77.0
+Data Engineer,Lead+ (>=8 năm),22,8.9,6.0,4.4,27.0,0.0,73.0

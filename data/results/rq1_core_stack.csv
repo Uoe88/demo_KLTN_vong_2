@@ -1,0 +1,691 @@
+﻿role,n_jobs_with_skills,skill,n,pct,ci_low_pct,ci_high_pct,role_sample_reliable,is_core
+AI Engineer,329,skill_python,193,58.7,53.3,63.9,True,True
+AI Engineer,329,skill_artificial_intelligence,158,48.0,42.7,53.4,True,True
+AI Engineer,329,skill_llm,129,39.2,34.1,44.6,True,True
+AI Engineer,329,skill_machine_learning,100,30.4,25.7,35.6,True,True
+AI Engineer,329,skill_computer_vision,63,19.1,15.3,23.7,True,False
+AI Engineer,329,skill_aws,59,17.9,14.2,22.4,True,False
+AI Engineer,329,skill_azure,57,17.3,13.6,21.8,True,False
+AI Engineer,329,skill_rest_api,57,17.3,13.6,21.8,True,False
+AI Engineer,329,skill_pytorch,55,16.7,13.1,21.1,True,False
+AI Engineer,329,skill_ci_cd,54,16.4,12.8,20.8,True,False
+AI Engineer,329,skill_docker,54,16.4,12.8,20.8,True,False
+AI Engineer,329,skill_deep_learning,52,15.8,12.3,20.1,True,False
+AI Engineer,329,skill_nlp,52,15.8,12.3,20.1,True,False
+AI Engineer,329,skill_sql,49,14.9,11.5,19.1,True,False
+AI Engineer,329,skill_mlops,49,14.9,11.5,19.1,True,False
+AI Engineer,329,skill_kubernetes,47,14.3,10.9,18.5,True,False
+AI Engineer,329,skill_gcp,47,14.3,10.9,18.5,True,False
+AI Engineer,329,skill_rag,44,13.4,10.1,17.5,True,False
+AI Engineer,329,skill_tensorflow,39,11.9,8.8,15.8,True,False
+AI Engineer,329,skill_generative_ai,36,10.9,8.0,14.8,True,False
+AI Engineer,329,skill_agile,25,7.6,5.2,11.0,True,False
+AI Engineer,329,skill_software_architecture,25,7.6,5.2,11.0,True,False
+AI Engineer,329,skill_java,22,6.7,4.5,9.9,True,False
+AI Engineer,329,skill_git,19,5.8,3.7,8.8,True,False
+AI Engineer,329,skill_claude,19,5.8,3.7,8.8,True,False
+AI Engineer,329,skill_cloud_computing,18,5.5,3.5,8.5,True,False
+AI Engineer,329,skill_data_warehouse,17,5.2,3.3,8.1,True,False
+AI Engineer,329,skill_software_testing,17,5.2,3.3,8.1,True,False
+AI Engineer,329,skill_business_analysis,17,5.2,3.3,8.1,True,False
+AI Engineer,329,skill_go,14,4.3,2.6,7.0,True,False
+AI Engineer,329,skill_microservices,13,4.0,2.3,6.6,True,False
+AI Engineer,329,skill_etl_elt,13,4.0,2.3,6.6,True,False
+AI Engineer,329,skill_devops,13,4.0,2.3,6.6,True,False
+AI Engineer,329,skill_scrum,13,4.0,2.3,6.6,True,False
+AI Engineer,329,skill_typescript,12,3.6,2.1,6.3,True,False
+AI Engineer,329,skill_automation_testing,12,3.6,2.1,6.3,True,False
+AI Engineer,329,skill_fastapi,12,3.6,2.1,6.3,True,False
+AI Engineer,329,skill_scikit_learn,12,3.6,2.1,6.3,True,False
+AI Engineer,329,skill_project_management,11,3.3,1.9,5.9,True,False
+AI Engineer,329,skill_r,11,3.3,1.9,5.9,True,False
+AI Engineer,329,skill_linux,10,3.0,1.7,5.5,True,False
+AI Engineer,329,skill_cpp,10,3.0,1.7,5.5,True,False
+AI Engineer,329,skill_react,9,2.7,1.4,5.1,True,False
+AI Engineer,329,skill_airflow,9,2.7,1.4,5.1,True,False
+AI Engineer,329,skill_figma,9,2.7,1.4,5.1,True,False
+AI Engineer,329,skill_kafka,8,2.4,1.2,4.7,True,False
+AI Engineer,329,skill_spark,8,2.4,1.2,4.7,True,False
+AI Engineer,329,skill_github_copilot,8,2.4,1.2,4.7,True,False
+AI Engineer,329,skill_jira,8,2.4,1.2,4.7,True,False
+AI Engineer,329,skill_bigquery,8,2.4,1.2,4.7,True,False
+AI Engineer,329,skill_cybersecurity,8,2.4,1.2,4.7,True,False
+AI Engineer,329,skill_javascript,7,2.1,1.0,4.3,True,False
+AI Engineer,329,skill_postgresql,7,2.1,1.0,4.3,True,False
+AI Engineer,329,skill_node_js,7,2.1,1.0,4.3,True,False
+AI Engineer,329,skill_nosql,7,2.1,1.0,4.3,True,False
+AI Engineer,329,skill_playwright,7,2.1,1.0,4.3,True,False
+AI Engineer,329,skill_android,6,1.8,0.8,3.9,True,False
+AI Engineer,329,skill_ios,6,1.8,0.8,3.9,True,False
+AI Engineer,329,skill_csharp,6,1.8,0.8,3.9,True,False
+AI Engineer,329,skill_erp,6,1.8,0.8,3.9,True,False
+AI Engineer,329,skill_pandas,6,1.8,0.8,3.9,True,False
+AI Engineer,329,skill_selenium,6,1.8,0.8,3.9,True,False
+AI Engineer,329,skill_github,5,1.5,0.7,3.5,True,False
+AI Engineer,329,skill_dotnet,5,1.5,0.7,3.5,True,False
+AI Engineer,329,skill_devsecops,5,1.5,0.7,3.5,True,False
+AI Engineer,329,skill_postman,5,1.5,0.7,3.5,True,False
+AI Engineer,329,skill_power_bi,4,1.2,0.5,3.1,True,False
+AI Engineer,329,skill_jenkins,4,1.2,0.5,3.1,True,False
+AI Engineer,329,skill_event_driven,4,1.2,0.5,3.1,True,False
+AI Engineer,329,skill_mongodb,4,1.2,0.5,3.1,True,False
+AI Engineer,329,skill_data_analysis,4,1.2,0.5,3.1,True,False
+AI Engineer,329,skill_crm,4,1.2,0.5,3.1,True,False
+AI Engineer,329,skill_mysql,3,0.9,0.3,2.6,True,False
+AI Engineer,329,skill_oracle,3,0.9,0.3,2.6,True,False
+AI Engineer,329,skill_sql_server,3,0.9,0.3,2.6,True,False
+AI Engineer,329,skill_graphql,3,0.9,0.3,2.6,True,False
+AI Engineer,329,skill_php,3,0.9,0.3,2.6,True,False
+AI Engineer,329,skill_scala,3,0.9,0.3,2.6,True,False
+AI Engineer,329,skill_snowflake,3,0.9,0.3,2.6,True,False
+AI Engineer,329,skill_data_lake,3,0.9,0.3,2.6,True,False
+AI Engineer,329,skill_databricks,3,0.9,0.3,2.6,True,False
+AI Engineer,329,skill_user_story,3,0.9,0.3,2.6,True,False
+AI Engineer,329,skill_terraform,2,0.6,0.2,2.2,True,False
+AI Engineer,329,skill_redis,2,0.6,0.2,2.2,True,False
+AI Engineer,329,skill_angular,2,0.6,0.2,2.2,True,False
+AI Engineer,329,skill_elasticsearch,2,0.6,0.2,2.2,True,False
+AI Engineer,329,skill_excel,2,0.6,0.2,2.2,True,False
+AI Engineer,329,skill_firebase,2,0.6,0.2,2.2,True,False
+AI Engineer,329,skill_spring,1,0.3,0.1,1.7,True,False
+AI Engineer,329,skill_html,1,0.3,0.1,1.7,True,False
+AI Engineer,329,skill_css,1,0.3,0.1,1.7,True,False
+AI Engineer,329,skill_spring_boot,1,0.3,0.1,1.7,True,False
+AI Engineer,329,skill_kotlin,1,0.3,0.1,1.7,True,False
+AI Engineer,329,skill_github_actions,1,0.3,0.1,1.7,True,False
+AI Engineer,329,skill_vue,1,0.3,0.1,1.7,True,False
+AI Engineer,329,skill_next_js,1,0.3,0.1,1.7,True,False
+AI Engineer,329,skill_cursor,1,0.3,0.1,1.7,True,False
+AI Engineer,329,skill_penetration_testing,1,0.3,0.1,1.7,True,False
+AI Engineer,329,skill_gitlab_ci,1,0.3,0.1,1.7,True,False
+AI Engineer,329,skill_flutter,1,0.3,0.1,1.7,True,False
+AI Engineer,329,skill_dbt,1,0.3,0.1,1.7,True,False
+AI Engineer,329,skill_swift,1,0.3,0.1,1.7,True,False
+AI Engineer,329,skill_oauth,1,0.3,0.1,1.7,True,False
+AI Engineer,329,skill_helm,1,0.3,0.1,1.7,True,False
+AI Engineer,329,skill_owasp,1,0.3,0.1,1.7,True,False
+AI Engineer,329,skill_hadoop,1,0.3,0.1,1.7,True,False
+AI Engineer,329,skill_pci_dss,1,0.3,0.1,1.7,True,False
+AI Engineer,329,skill_bpmn,1,0.3,0.1,1.7,True,False
+AI Engineer,329,skill_gitlab,0,0.0,0.0,1.2,True,False
+AI Engineer,329,skill_tableau,0,0.0,0.0,1.2,True,False
+AI Engineer,329,skill_grafana,0,0.0,0.0,1.2,True,False
+AI Engineer,329,skill_bash_shell,0,0.0,0.0,1.2,True,False
+AI Engineer,329,skill_ansible,0,0.0,0.0,1.2,True,False
+AI Engineer,329,skill_prometheus,0,0.0,0.0,1.2,True,False
+AI Engineer,329,skill_rabbitmq,0,0.0,0.0,1.2,True,False
+AI Engineer,329,skill_siem,0,0.0,0.0,1.2,True,False
+AI Engineer,329,skill_elk,0,0.0,0.0,1.2,True,False
+AI Engineer,329,skill_soc,0,0.0,0.0,1.2,True,False
+AI Engineer,329,skill_iso_27001,0,0.0,0.0,1.2,True,False
+AI Engineer,329,skill_react_native,0,0.0,0.0,1.2,True,False
+AI Engineer,329,skill_redux,0,0.0,0.0,1.2,True,False
+AI Engineer,329,skill_argocd,0,0.0,0.0,1.2,True,False
+AI Engineer,329,skill_looker,0,0.0,0.0,1.2,True,False
+AI Engineer,329,skill_powershell,0,0.0,0.0,1.2,True,False
+AI Engineer,329,skill_ruby,0,0.0,0.0,1.2,True,False
+AI Engineer,329,skill_flink,0,0.0,0.0,1.2,True,False
+AI Engineer,329,skill_redshift,0,0.0,0.0,1.2,True,False
+AI Engineer,329,skill_ids_ips,0,0.0,0.0,1.2,True,False
+AI Engineer,329,skill_waf,0,0.0,0.0,1.2,True,False
+AI Engineer,329,skill_dlp,0,0.0,0.0,1.2,True,False
+AI Engineer,329,skill_bootstrap,0,0.0,0.0,1.2,True,False
+AI Engineer,329,skill_nist,0,0.0,0.0,1.2,True,False
+AI Engineer,329,skill_jetpack_compose,0,0.0,0.0,1.2,True,False
+AI Engineer,329,skill_jest,0,0.0,0.0,1.2,True,False
+AI Engineer,329,skill_dart,0,0.0,0.0,1.2,True,False
+AI Engineer,329,skill_uml,0,0.0,0.0,1.2,True,False
+AI Engineer,329,skill_swiftui,0,0.0,0.0,1.2,True,False
+AI Engineer,329,skill_cert_security,0,0.0,0.0,1.2,True,False
+Backend,202,skill_java,103,51.0,44.1,57.8,True,True
+Backend,202,skill_sql,73,36.1,29.8,43.0,True,True
+Backend,202,skill_microservices,73,36.1,29.8,43.0,True,True
+Backend,202,skill_spring,72,35.6,29.4,42.5,True,True
+Backend,202,skill_spring_boot,65,32.2,26.1,38.9,True,True
+Backend,202,skill_postgresql,56,27.7,22.0,34.3,True,False
+Backend,202,skill_ci_cd,55,27.2,21.6,33.7,True,False
+Backend,202,skill_docker,53,26.2,20.7,32.7,True,False
+Backend,202,skill_aws,48,23.8,18.4,30.1,True,False
+Backend,202,skill_mysql,48,23.8,18.4,30.1,True,False
+Backend,202,skill_kubernetes,45,22.3,17.1,28.5,True,False
+Backend,202,skill_kafka,45,22.3,17.1,28.5,True,False
+Backend,202,skill_python,39,19.3,14.5,25.3,True,False
+Backend,202,skill_git,37,18.3,13.6,24.2,True,False
+Backend,202,skill_go,37,18.3,13.6,24.2,True,False
+Backend,202,skill_redis,37,18.3,13.6,24.2,True,False
+Backend,202,skill_event_driven,35,17.3,12.7,23.1,True,False
+Backend,202,skill_dotnet,33,16.3,11.9,22.1,True,False
+Backend,202,skill_oracle,30,14.9,10.6,20.4,True,False
+Backend,202,skill_rest_api,29,14.4,10.2,19.9,True,False
+Backend,202,skill_react,28,13.9,9.8,19.3,True,False
+Backend,202,skill_azure,24,11.9,8.1,17.1,True,False
+Backend,202,skill_sql_server,23,11.4,7.7,16.5,True,False
+Backend,202,skill_csharp,23,11.4,7.7,16.5,True,False
+Backend,202,skill_mongodb,21,10.4,6.9,15.4,True,False
+Backend,202,skill_node_js,20,9.9,6.5,14.8,True,False
+Backend,202,skill_gcp,19,9.4,6.1,14.2,True,False
+Backend,202,skill_javascript,19,9.4,6.1,14.2,True,False
+Backend,202,skill_github,17,8.4,5.3,13.1,True,False
+Backend,202,skill_software_architecture,16,7.9,4.9,12.5,True,False
+Backend,202,skill_rabbitmq,16,7.9,4.9,12.5,True,False
+Backend,202,skill_cloud_computing,15,7.4,4.6,11.9,True,False
+Backend,202,skill_typescript,14,6.9,4.2,11.3,True,False
+Backend,202,skill_artificial_intelligence,14,6.9,4.2,11.3,True,False
+Backend,202,skill_fastapi,13,6.4,3.8,10.7,True,False
+Backend,202,skill_php,12,5.9,3.4,10.1,True,False
+Backend,202,skill_elasticsearch,11,5.4,3.1,9.5,True,False
+Backend,202,skill_claude,10,5.0,2.7,8.9,True,False
+Backend,202,skill_agile,9,4.5,2.4,8.2,True,False
+Backend,202,skill_angular,9,4.5,2.4,8.2,True,False
+Backend,202,skill_next_js,9,4.5,2.4,8.2,True,False
+Backend,202,skill_jira,8,4.0,2.0,7.6,True,False
+Backend,202,skill_jenkins,7,3.5,1.7,7.0,True,False
+Backend,202,skill_github_copilot,7,3.5,1.7,7.0,True,False
+Backend,202,skill_linux,7,3.5,1.7,7.0,True,False
+Backend,202,skill_oauth,7,3.5,1.7,7.0,True,False
+Backend,202,skill_nosql,6,3.0,1.4,6.3,True,False
+Backend,202,skill_kotlin,6,3.0,1.4,6.3,True,False
+Backend,202,skill_github_actions,6,3.0,1.4,6.3,True,False
+Backend,202,skill_graphql,6,3.0,1.4,6.3,True,False
+Backend,202,skill_cpp,6,3.0,1.4,6.3,True,False
+Backend,202,skill_terraform,5,2.5,1.1,5.7,True,False
+Backend,202,skill_llm,5,2.5,1.1,5.7,True,False
+Backend,202,skill_vue,5,2.5,1.1,5.7,True,False
+Backend,202,skill_cursor,5,2.5,1.1,5.7,True,False
+Backend,202,skill_ansible,5,2.5,1.1,5.7,True,False
+Backend,202,skill_etl_elt,4,2.0,0.8,5.0,True,False
+Backend,202,skill_flutter,4,2.0,0.8,5.0,True,False
+Backend,202,skill_ruby,4,2.0,0.8,5.0,True,False
+Backend,202,skill_html,3,1.5,0.5,4.3,True,False
+Backend,202,skill_android,3,1.5,0.5,4.3,True,False
+Backend,202,skill_devops,3,1.5,0.5,4.3,True,False
+Backend,202,skill_gitlab,3,1.5,0.5,4.3,True,False
+Backend,202,skill_helm,3,1.5,0.5,4.3,True,False
+Backend,202,skill_machine_learning,2,1.0,0.3,3.5,True,False
+Backend,202,skill_css,2,1.0,0.3,3.5,True,False
+Backend,202,skill_ios,2,1.0,0.3,3.5,True,False
+Backend,202,skill_scrum,2,1.0,0.3,3.5,True,False
+Backend,202,skill_gitlab_ci,2,1.0,0.3,3.5,True,False
+Backend,202,skill_erp,2,1.0,0.3,3.5,True,False
+Backend,202,skill_bootstrap,2,1.0,0.3,3.5,True,False
+Backend,202,skill_data_warehouse,1,0.5,0.1,2.8,True,False
+Backend,202,skill_airflow,1,0.5,0.1,2.8,True,False
+Backend,202,skill_bash_shell,1,0.5,0.1,2.8,True,False
+Backend,202,skill_mlops,1,0.5,0.1,2.8,True,False
+Backend,202,skill_bigquery,1,0.5,0.1,2.8,True,False
+Backend,202,skill_project_management,1,0.5,0.1,2.8,True,False
+Backend,202,skill_dbt,1,0.5,0.1,2.8,True,False
+Backend,202,skill_react_native,1,0.5,0.1,2.8,True,False
+Backend,202,skill_scala,1,0.5,0.1,2.8,True,False
+Backend,202,skill_playwright,1,0.5,0.1,2.8,True,False
+Backend,202,skill_flink,1,0.5,0.1,2.8,True,False
+Backend,202,skill_spark,0,0.0,0.0,1.9,True,False
+Backend,202,skill_power_bi,0,0.0,0.0,1.9,True,False
+Backend,202,skill_software_testing,0,0.0,0.0,1.9,True,False
+Backend,202,skill_tableau,0,0.0,0.0,1.9,True,False
+Backend,202,skill_business_analysis,0,0.0,0.0,1.9,True,False
+Backend,202,skill_grafana,0,0.0,0.0,1.9,True,False
+Backend,202,skill_prometheus,0,0.0,0.0,1.9,True,False
+Backend,202,skill_deep_learning,0,0.0,0.0,1.9,True,False
+Backend,202,skill_cybersecurity,0,0.0,0.0,1.9,True,False
+Backend,202,skill_pytorch,0,0.0,0.0,1.9,True,False
+Backend,202,skill_siem,0,0.0,0.0,1.9,True,False
+Backend,202,skill_devsecops,0,0.0,0.0,1.9,True,False
+Backend,202,skill_computer_vision,0,0.0,0.0,1.9,True,False
+Backend,202,skill_automation_testing,0,0.0,0.0,1.9,True,False
+Backend,202,skill_nlp,0,0.0,0.0,1.9,True,False
+Backend,202,skill_penetration_testing,0,0.0,0.0,1.9,True,False
+Backend,202,skill_tensorflow,0,0.0,0.0,1.9,True,False
+Backend,202,skill_r,0,0.0,0.0,1.9,True,False
+Backend,202,skill_excel,0,0.0,0.0,1.9,True,False
+Backend,202,skill_swift,0,0.0,0.0,1.9,True,False
+Backend,202,skill_elk,0,0.0,0.0,1.9,True,False
+Backend,202,skill_rag,0,0.0,0.0,1.9,True,False
+Backend,202,skill_soc,0,0.0,0.0,1.9,True,False
+Backend,202,skill_iso_27001,0,0.0,0.0,1.9,True,False
+Backend,202,skill_snowflake,0,0.0,0.0,1.9,True,False
+Backend,202,skill_data_lake,0,0.0,0.0,1.9,True,False
+Backend,202,skill_generative_ai,0,0.0,0.0,1.9,True,False
+Backend,202,skill_owasp,0,0.0,0.0,1.9,True,False
+Backend,202,skill_redux,0,0.0,0.0,1.9,True,False
+Backend,202,skill_hadoop,0,0.0,0.0,1.9,True,False
+Backend,202,skill_argocd,0,0.0,0.0,1.9,True,False
+Backend,202,skill_data_analysis,0,0.0,0.0,1.9,True,False
+Backend,202,skill_looker,0,0.0,0.0,1.9,True,False
+Backend,202,skill_figma,0,0.0,0.0,1.9,True,False
+Backend,202,skill_pci_dss,0,0.0,0.0,1.9,True,False
+Backend,202,skill_postman,0,0.0,0.0,1.9,True,False
+Backend,202,skill_powershell,0,0.0,0.0,1.9,True,False
+Backend,202,skill_databricks,0,0.0,0.0,1.9,True,False
+Backend,202,skill_pandas,0,0.0,0.0,1.9,True,False
+Backend,202,skill_scikit_learn,0,0.0,0.0,1.9,True,False
+Backend,202,skill_selenium,0,0.0,0.0,1.9,True,False
+Backend,202,skill_crm,0,0.0,0.0,1.9,True,False
+Backend,202,skill_redshift,0,0.0,0.0,1.9,True,False
+Backend,202,skill_ids_ips,0,0.0,0.0,1.9,True,False
+Backend,202,skill_firebase,0,0.0,0.0,1.9,True,False
+Backend,202,skill_waf,0,0.0,0.0,1.9,True,False
+Backend,202,skill_dlp,0,0.0,0.0,1.9,True,False
+Backend,202,skill_nist,0,0.0,0.0,1.9,True,False
+Backend,202,skill_jetpack_compose,0,0.0,0.0,1.9,True,False
+Backend,202,skill_jest,0,0.0,0.0,1.9,True,False
+Backend,202,skill_user_story,0,0.0,0.0,1.9,True,False
+Backend,202,skill_dart,0,0.0,0.0,1.9,True,False
+Backend,202,skill_uml,0,0.0,0.0,1.9,True,False
+Backend,202,skill_bpmn,0,0.0,0.0,1.9,True,False
+Backend,202,skill_swiftui,0,0.0,0.0,1.9,True,False
+Backend,202,skill_cert_security,0,0.0,0.0,1.9,True,False
+Data Engineer,222,skill_sql,158,71.2,64.9,76.7,True,True
+Data Engineer,222,skill_python,152,68.5,62.1,74.2,True,True
+Data Engineer,222,skill_etl_elt,109,49.1,42.6,55.6,True,True
+Data Engineer,222,skill_data_warehouse,91,41.0,34.7,47.6,True,True
+Data Engineer,222,skill_spark,90,40.5,34.3,47.1,True,True
+Data Engineer,222,skill_aws,88,39.6,33.4,46.2,True,True
+Data Engineer,222,skill_azure,74,33.3,27.5,39.8,True,True
+Data Engineer,222,skill_airflow,68,30.6,24.9,37.0,True,True
+Data Engineer,222,skill_gcp,65,29.3,23.7,35.6,True,False
+Data Engineer,222,skill_kafka,61,27.5,22.0,33.7,True,False
+Data Engineer,222,skill_ci_cd,47,21.2,16.3,27.0,True,False
+Data Engineer,222,skill_dbt,45,20.3,15.5,26.0,True,False
+Data Engineer,222,skill_java,40,18.0,13.5,23.6,True,False
+Data Engineer,222,skill_data_lake,39,17.6,13.1,23.1,True,False
+Data Engineer,222,skill_docker,38,17.1,12.7,22.6,True,False
+Data Engineer,222,skill_machine_learning,38,17.1,12.7,22.6,True,False
+Data Engineer,222,skill_postgresql,35,15.8,11.6,21.1,True,False
+Data Engineer,222,skill_kubernetes,34,15.3,11.2,20.6,True,False
+Data Engineer,222,skill_snowflake,34,15.3,11.2,20.6,True,False
+Data Engineer,222,skill_git,33,14.9,10.8,20.1,True,False
+Data Engineer,222,skill_power_bi,30,13.5,9.6,18.6,True,False
+Data Engineer,222,skill_hadoop,29,13.1,9.3,18.1,True,False
+Data Engineer,222,skill_sql_server,28,12.6,8.9,17.6,True,False
+Data Engineer,222,skill_bigquery,28,12.6,8.9,17.6,True,False
+Data Engineer,222,skill_scala,28,12.6,8.9,17.6,True,False
+Data Engineer,222,skill_rest_api,26,11.7,8.1,16.6,True,False
+Data Engineer,222,skill_agile,25,11.3,7.7,16.1,True,False
+Data Engineer,222,skill_databricks,25,11.3,7.7,16.1,True,False
+Data Engineer,222,skill_redshift,25,11.3,7.7,16.1,True,False
+Data Engineer,222,skill_llm,24,10.8,7.4,15.6,True,False
+Data Engineer,222,skill_oracle,24,10.8,7.4,15.6,True,False
+Data Engineer,222,skill_tableau,24,10.8,7.4,15.6,True,False
+Data Engineer,222,skill_mysql,22,9.9,6.6,14.5,True,False
+Data Engineer,222,skill_nosql,22,9.9,6.6,14.5,True,False
+Data Engineer,222,skill_flink,18,8.1,5.2,12.5,True,False
+Data Engineer,222,skill_terraform,14,6.3,3.8,10.3,True,False
+Data Engineer,222,skill_mlops,12,5.4,3.1,9.2,True,False
+Data Engineer,222,skill_r,12,5.4,3.1,9.2,True,False
+Data Engineer,222,skill_mongodb,11,5.0,2.8,8.7,True,False
+Data Engineer,222,skill_looker,11,5.0,2.8,8.7,True,False
+Data Engineer,222,skill_scrum,10,4.5,2.5,8.1,True,False
+Data Engineer,222,skill_rag,10,4.5,2.5,8.1,True,False
+Data Engineer,222,skill_cloud_computing,9,4.1,2.1,7.5,True,False
+Data Engineer,222,skill_artificial_intelligence,8,3.6,1.8,6.9,True,False
+Data Engineer,222,skill_tensorflow,8,3.6,1.8,6.9,True,False
+Data Engineer,222,skill_pandas,8,3.6,1.8,6.9,True,False
+Data Engineer,222,skill_go,7,3.2,1.5,6.4,True,False
+Data Engineer,222,skill_elasticsearch,6,2.7,1.2,5.8,True,False
+Data Engineer,222,skill_devops,5,2.3,1.0,5.2,True,False
+Data Engineer,222,skill_linux,5,2.3,1.0,5.2,True,False
+Data Engineer,222,skill_fastapi,5,2.3,1.0,5.2,True,False
+Data Engineer,222,skill_generative_ai,5,2.3,1.0,5.2,True,False
+Data Engineer,222,skill_erp,5,2.3,1.0,5.2,True,False
+Data Engineer,222,skill_data_analysis,5,2.3,1.0,5.2,True,False
+Data Engineer,222,skill_javascript,4,1.8,0.7,4.5,True,False
+Data Engineer,222,skill_jira,4,1.8,0.7,4.5,True,False
+Data Engineer,222,skill_pytorch,4,1.8,0.7,4.5,True,False
+Data Engineer,222,skill_excel,4,1.8,0.7,4.5,True,False
+Data Engineer,222,skill_crm,4,1.8,0.7,4.5,True,False
+Data Engineer,222,skill_redis,3,1.4,0.5,3.9,True,False
+Data Engineer,222,skill_software_architecture,3,1.4,0.5,3.9,True,False
+Data Engineer,222,skill_grafana,3,1.4,0.5,3.9,True,False
+Data Engineer,222,skill_deep_learning,3,1.4,0.5,3.9,True,False
+Data Engineer,222,skill_claude,2,0.9,0.2,3.2,True,False
+Data Engineer,222,skill_jenkins,2,0.9,0.2,3.2,True,False
+Data Engineer,222,skill_software_testing,2,0.9,0.2,3.2,True,False
+Data Engineer,222,skill_cursor,2,0.9,0.2,3.2,True,False
+Data Engineer,222,skill_project_management,2,0.9,0.2,3.2,True,False
+Data Engineer,222,skill_automation_testing,2,0.9,0.2,3.2,True,False
+Data Engineer,222,skill_nlp,2,0.9,0.2,3.2,True,False
+Data Engineer,222,skill_scikit_learn,2,0.9,0.2,3.2,True,False
+Data Engineer,222,skill_cpp,2,0.9,0.2,3.2,True,False
+Data Engineer,222,skill_react,1,0.5,0.1,2.5,True,False
+Data Engineer,222,skill_microservices,1,0.5,0.1,2.5,True,False
+Data Engineer,222,skill_github,1,0.5,0.1,2.5,True,False
+Data Engineer,222,skill_event_driven,1,0.5,0.1,2.5,True,False
+Data Engineer,222,skill_next_js,1,0.5,0.1,2.5,True,False
+Data Engineer,222,skill_cybersecurity,1,0.5,0.1,2.5,True,False
+Data Engineer,222,skill_siem,1,0.5,0.1,2.5,True,False
+Data Engineer,222,skill_computer_vision,1,0.5,0.1,2.5,True,False
+Data Engineer,222,skill_gitlab_ci,1,0.5,0.1,2.5,True,False
+Data Engineer,222,skill_postman,1,0.5,0.1,2.5,True,False
+Data Engineer,222,skill_firebase,1,0.5,0.1,2.5,True,False
+Data Engineer,222,skill_typescript,0,0.0,0.0,1.7,True,False
+Data Engineer,222,skill_node_js,0,0.0,0.0,1.7,True,False
+Data Engineer,222,skill_spring,0,0.0,0.0,1.7,True,False
+Data Engineer,222,skill_html,0,0.0,0.0,1.7,True,False
+Data Engineer,222,skill_android,0,0.0,0.0,1.7,True,False
+Data Engineer,222,skill_css,0,0.0,0.0,1.7,True,False
+Data Engineer,222,skill_spring_boot,0,0.0,0.0,1.7,True,False
+Data Engineer,222,skill_angular,0,0.0,0.0,1.7,True,False
+Data Engineer,222,skill_ios,0,0.0,0.0,1.7,True,False
+Data Engineer,222,skill_github_copilot,0,0.0,0.0,1.7,True,False
+Data Engineer,222,skill_kotlin,0,0.0,0.0,1.7,True,False
+Data Engineer,222,skill_dotnet,0,0.0,0.0,1.7,True,False
+Data Engineer,222,skill_gitlab,0,0.0,0.0,1.7,True,False
+Data Engineer,222,skill_github_actions,0,0.0,0.0,1.7,True,False
+Data Engineer,222,skill_business_analysis,0,0.0,0.0,1.7,True,False
+Data Engineer,222,skill_vue,0,0.0,0.0,1.7,True,False
+Data Engineer,222,skill_bash_shell,0,0.0,0.0,1.7,True,False
+Data Engineer,222,skill_graphql,0,0.0,0.0,1.7,True,False
+Data Engineer,222,skill_ansible,0,0.0,0.0,1.7,True,False
+Data Engineer,222,skill_prometheus,0,0.0,0.0,1.7,True,False
+Data Engineer,222,skill_rabbitmq,0,0.0,0.0,1.7,True,False
+Data Engineer,222,skill_php,0,0.0,0.0,1.7,True,False
+Data Engineer,222,skill_devsecops,0,0.0,0.0,1.7,True,False
+Data Engineer,222,skill_penetration_testing,0,0.0,0.0,1.7,True,False
+Data Engineer,222,skill_flutter,0,0.0,0.0,1.7,True,False
+Data Engineer,222,skill_swift,0,0.0,0.0,1.7,True,False
+Data Engineer,222,skill_elk,0,0.0,0.0,1.7,True,False
+Data Engineer,222,skill_soc,0,0.0,0.0,1.7,True,False
+Data Engineer,222,skill_iso_27001,0,0.0,0.0,1.7,True,False
+Data Engineer,222,skill_csharp,0,0.0,0.0,1.7,True,False
+Data Engineer,222,skill_react_native,0,0.0,0.0,1.7,True,False
+Data Engineer,222,skill_oauth,0,0.0,0.0,1.7,True,False
+Data Engineer,222,skill_helm,0,0.0,0.0,1.7,True,False
+Data Engineer,222,skill_playwright,0,0.0,0.0,1.7,True,False
+Data Engineer,222,skill_owasp,0,0.0,0.0,1.7,True,False
+Data Engineer,222,skill_redux,0,0.0,0.0,1.7,True,False
+Data Engineer,222,skill_argocd,0,0.0,0.0,1.7,True,False
+Data Engineer,222,skill_figma,0,0.0,0.0,1.7,True,False
+Data Engineer,222,skill_pci_dss,0,0.0,0.0,1.7,True,False
+Data Engineer,222,skill_powershell,0,0.0,0.0,1.7,True,False
+Data Engineer,222,skill_selenium,0,0.0,0.0,1.7,True,False
+Data Engineer,222,skill_ruby,0,0.0,0.0,1.7,True,False
+Data Engineer,222,skill_ids_ips,0,0.0,0.0,1.7,True,False
+Data Engineer,222,skill_waf,0,0.0,0.0,1.7,True,False
+Data Engineer,222,skill_dlp,0,0.0,0.0,1.7,True,False
+Data Engineer,222,skill_bootstrap,0,0.0,0.0,1.7,True,False
+Data Engineer,222,skill_nist,0,0.0,0.0,1.7,True,False
+Data Engineer,222,skill_jetpack_compose,0,0.0,0.0,1.7,True,False
+Data Engineer,222,skill_jest,0,0.0,0.0,1.7,True,False
+Data Engineer,222,skill_user_story,0,0.0,0.0,1.7,True,False
+Data Engineer,222,skill_dart,0,0.0,0.0,1.7,True,False
+Data Engineer,222,skill_uml,0,0.0,0.0,1.7,True,False
+Data Engineer,222,skill_bpmn,0,0.0,0.0,1.7,True,False
+Data Engineer,222,skill_swiftui,0,0.0,0.0,1.7,True,False
+Data Engineer,222,skill_cert_security,0,0.0,0.0,1.7,True,False
+Data Scientist,66,skill_python,60,90.9,81.6,95.8,True,True
+Data Scientist,66,skill_sql,50,75.8,64.2,84.5,True,True
+Data Scientist,66,skill_machine_learning,41,62.1,50.1,72.9,True,True
+Data Scientist,66,skill_spark,24,36.4,25.8,48.4,True,True
+Data Scientist,66,skill_deep_learning,24,36.4,25.8,48.4,True,True
+Data Scientist,66,skill_scikit_learn,19,28.8,19.3,40.6,True,False
+Data Scientist,66,skill_tensorflow,16,24.2,15.5,35.8,True,False
+Data Scientist,66,skill_pytorch,15,22.7,14.3,34.2,True,False
+Data Scientist,66,skill_aws,14,21.2,13.1,32.5,True,False
+Data Scientist,66,skill_mlops,14,21.2,13.1,32.5,True,False
+Data Scientist,66,skill_r,13,19.7,11.9,30.8,True,False
+Data Scientist,66,skill_azure,12,18.2,10.7,29.1,True,False
+Data Scientist,66,skill_pandas,11,16.7,9.6,27.4,True,False
+Data Scientist,66,skill_power_bi,10,15.2,8.4,25.7,True,False
+Data Scientist,66,skill_gcp,9,13.6,7.3,23.9,True,False
+Data Scientist,66,skill_llm,9,13.6,7.3,23.9,True,False
+Data Scientist,66,skill_tableau,8,12.1,6.3,22.1,True,False
+Data Scientist,66,skill_nlp,8,12.1,6.3,22.1,True,False
+Data Scientist,66,skill_docker,7,10.6,5.2,20.3,True,False
+Data Scientist,66,skill_data_warehouse,7,10.6,5.2,20.3,True,False
+Data Scientist,66,skill_agile,7,10.6,5.2,20.3,True,False
+Data Scientist,66,skill_java,6,9.1,4.2,18.4,True,False
+Data Scientist,66,skill_airflow,6,9.1,4.2,18.4,True,False
+Data Scientist,66,skill_excel,6,9.1,4.2,18.4,True,False
+Data Scientist,66,skill_scala,6,9.1,4.2,18.4,True,False
+Data Scientist,66,skill_hadoop,6,9.1,4.2,18.4,True,False
+Data Scientist,66,skill_git,5,7.6,3.3,16.5,True,False
+Data Scientist,66,skill_artificial_intelligence,5,7.6,3.3,16.5,True,False
+Data Scientist,66,skill_scrum,5,7.6,3.3,16.5,True,False
+Data Scientist,66,skill_etl_elt,4,6.1,2.4,14.6,True,False
+Data Scientist,66,skill_databricks,4,6.1,2.4,14.6,True,False
+Data Scientist,66,skill_ci_cd,3,4.5,1.6,12.5,True,False
+Data Scientist,66,skill_kafka,3,4.5,1.6,12.5,True,False
+Data Scientist,66,skill_oracle,3,4.5,1.6,12.5,True,False
+Data Scientist,66,skill_nosql,3,4.5,1.6,12.5,True,False
+Data Scientist,66,skill_bigquery,3,4.5,1.6,12.5,True,False
+Data Scientist,66,skill_generative_ai,3,4.5,1.6,12.5,True,False
+Data Scientist,66,skill_kubernetes,2,3.0,0.8,10.4,True,False
+Data Scientist,66,skill_fastapi,2,3.0,0.8,10.4,True,False
+Data Scientist,66,skill_rag,2,3.0,0.8,10.4,True,False
+Data Scientist,66,skill_data_analysis,2,3.0,0.8,10.4,True,False
+Data Scientist,66,skill_postgresql,1,1.5,0.3,8.1,True,False
+Data Scientist,66,skill_go,1,1.5,0.3,8.1,True,False
+Data Scientist,66,skill_rest_api,1,1.5,0.3,8.1,True,False
+Data Scientist,66,skill_mysql,1,1.5,0.3,8.1,True,False
+Data Scientist,66,skill_cloud_computing,1,1.5,0.3,8.1,True,False
+Data Scientist,66,skill_linux,1,1.5,0.3,8.1,True,False
+Data Scientist,66,skill_computer_vision,1,1.5,0.3,8.1,True,False
+Data Scientist,66,skill_dbt,1,1.5,0.3,8.1,True,False
+Data Scientist,66,skill_crm,1,1.5,0.3,8.1,True,False
+Data Scientist,66,skill_flink,1,1.5,0.3,8.1,True,False
+Data Scientist,66,skill_react,0,0.0,0.0,5.5,True,False
+Data Scientist,66,skill_microservices,0,0.0,0.0,5.5,True,False
+Data Scientist,66,skill_javascript,0,0.0,0.0,5.5,True,False
+Data Scientist,66,skill_typescript,0,0.0,0.0,5.5,True,False
+Data Scientist,66,skill_terraform,0,0.0,0.0,5.5,True,False
+Data Scientist,66,skill_github,0,0.0,0.0,5.5,True,False
+Data Scientist,66,skill_node_js,0,0.0,0.0,5.5,True,False
+Data Scientist,66,skill_spring,0,0.0,0.0,5.5,True,False
+Data Scientist,66,skill_html,0,0.0,0.0,5.5,True,False
+Data Scientist,66,skill_android,0,0.0,0.0,5.5,True,False
+Data Scientist,66,skill_sql_server,0,0.0,0.0,5.5,True,False
+Data Scientist,66,skill_css,0,0.0,0.0,5.5,True,False
+Data Scientist,66,skill_spring_boot,0,0.0,0.0,5.5,True,False
+Data Scientist,66,skill_claude,0,0.0,0.0,5.5,True,False
+Data Scientist,66,skill_redis,0,0.0,0.0,5.5,True,False
+Data Scientist,66,skill_jenkins,0,0.0,0.0,5.5,True,False
+Data Scientist,66,skill_software_testing,0,0.0,0.0,5.5,True,False
+Data Scientist,66,skill_event_driven,0,0.0,0.0,5.5,True,False
+Data Scientist,66,skill_mongodb,0,0.0,0.0,5.5,True,False
+Data Scientist,66,skill_devops,0,0.0,0.0,5.5,True,False
+Data Scientist,66,skill_angular,0,0.0,0.0,5.5,True,False
+Data Scientist,66,skill_ios,0,0.0,0.0,5.5,True,False
+Data Scientist,66,skill_github_copilot,0,0.0,0.0,5.5,True,False
+Data Scientist,66,skill_jira,0,0.0,0.0,5.5,True,False
+Data Scientist,66,skill_kotlin,0,0.0,0.0,5.5,True,False
+Data Scientist,66,skill_dotnet,0,0.0,0.0,5.5,True,False
+Data Scientist,66,skill_gitlab,0,0.0,0.0,5.5,True,False
+Data Scientist,66,skill_github_actions,0,0.0,0.0,5.5,True,False
+Data Scientist,66,skill_business_analysis,0,0.0,0.0,5.5,True,False
+Data Scientist,66,skill_software_architecture,0,0.0,0.0,5.5,True,False
+Data Scientist,66,skill_vue,0,0.0,0.0,5.5,True,False
+Data Scientist,66,skill_next_js,0,0.0,0.0,5.5,True,False
+Data Scientist,66,skill_grafana,0,0.0,0.0,5.5,True,False
+Data Scientist,66,skill_bash_shell,0,0.0,0.0,5.5,True,False
+Data Scientist,66,skill_cursor,0,0.0,0.0,5.5,True,False
+Data Scientist,66,skill_graphql,0,0.0,0.0,5.5,True,False
+Data Scientist,66,skill_ansible,0,0.0,0.0,5.5,True,False
+Data Scientist,66,skill_prometheus,0,0.0,0.0,5.5,True,False
+Data Scientist,66,skill_rabbitmq,0,0.0,0.0,5.5,True,False
+Data Scientist,66,skill_php,0,0.0,0.0,5.5,True,False
+Data Scientist,66,skill_cybersecurity,0,0.0,0.0,5.5,True,False
+Data Scientist,66,skill_elasticsearch,0,0.0,0.0,5.5,True,False
+Data Scientist,66,skill_siem,0,0.0,0.0,5.5,True,False
+Data Scientist,66,skill_devsecops,0,0.0,0.0,5.5,True,False
+Data Scientist,66,skill_project_management,0,0.0,0.0,5.5,True,False
+Data Scientist,66,skill_automation_testing,0,0.0,0.0,5.5,True,False
+Data Scientist,66,skill_penetration_testing,0,0.0,0.0,5.5,True,False
+Data Scientist,66,skill_gitlab_ci,0,0.0,0.0,5.5,True,False
+Data Scientist,66,skill_flutter,0,0.0,0.0,5.5,True,False
+Data Scientist,66,skill_swift,0,0.0,0.0,5.5,True,False
+Data Scientist,66,skill_elk,0,0.0,0.0,5.5,True,False
+Data Scientist,66,skill_soc,0,0.0,0.0,5.5,True,False
+Data Scientist,66,skill_iso_27001,0,0.0,0.0,5.5,True,False
+Data Scientist,66,skill_csharp,0,0.0,0.0,5.5,True,False
+Data Scientist,66,skill_react_native,0,0.0,0.0,5.5,True,False
+Data Scientist,66,skill_oauth,0,0.0,0.0,5.5,True,False
+Data Scientist,66,skill_snowflake,0,0.0,0.0,5.5,True,False
+Data Scientist,66,skill_helm,0,0.0,0.0,5.5,True,False
+Data Scientist,66,skill_data_lake,0,0.0,0.0,5.5,True,False
+Data Scientist,66,skill_playwright,0,0.0,0.0,5.5,True,False
+Data Scientist,66,skill_owasp,0,0.0,0.0,5.5,True,False
+Data Scientist,66,skill_erp,0,0.0,0.0,5.5,True,False
+Data Scientist,66,skill_redux,0,0.0,0.0,5.5,True,False
+Data Scientist,66,skill_argocd,0,0.0,0.0,5.5,True,False
+Data Scientist,66,skill_looker,0,0.0,0.0,5.5,True,False
+Data Scientist,66,skill_figma,0,0.0,0.0,5.5,True,False
+Data Scientist,66,skill_pci_dss,0,0.0,0.0,5.5,True,False
+Data Scientist,66,skill_postman,0,0.0,0.0,5.5,True,False
+Data Scientist,66,skill_powershell,0,0.0,0.0,5.5,True,False
+Data Scientist,66,skill_selenium,0,0.0,0.0,5.5,True,False
+Data Scientist,66,skill_ruby,0,0.0,0.0,5.5,True,False
+Data Scientist,66,skill_cpp,0,0.0,0.0,5.5,True,False
+Data Scientist,66,skill_redshift,0,0.0,0.0,5.5,True,False
+Data Scientist,66,skill_ids_ips,0,0.0,0.0,5.5,True,False
+Data Scientist,66,skill_firebase,0,0.0,0.0,5.5,True,False
+Data Scientist,66,skill_waf,0,0.0,0.0,5.5,True,False
+Data Scientist,66,skill_dlp,0,0.0,0.0,5.5,True,False
+Data Scientist,66,skill_bootstrap,0,0.0,0.0,5.5,True,False
+Data Scientist,66,skill_nist,0,0.0,0.0,5.5,True,False
+Data Scientist,66,skill_jetpack_compose,0,0.0,0.0,5.5,True,False
+Data Scientist,66,skill_jest,0,0.0,0.0,5.5,True,False
+Data Scientist,66,skill_user_story,0,0.0,0.0,5.5,True,False
+Data Scientist,66,skill_dart,0,0.0,0.0,5.5,True,False
+Data Scientist,66,skill_uml,0,0.0,0.0,5.5,True,False
+Data Scientist,66,skill_bpmn,0,0.0,0.0,5.5,True,False
+Data Scientist,66,skill_swiftui,0,0.0,0.0,5.5,True,False
+Data Scientist,66,skill_cert_security,0,0.0,0.0,5.5,True,False
+Frontend,124,skill_javascript,83,66.9,58.3,74.6,True,True
+Frontend,124,skill_html,74,59.7,50.9,67.9,True,True
+Frontend,124,skill_css,71,57.3,48.5,65.6,True,True
+Frontend,124,skill_react,70,56.5,47.7,64.9,True,True
+Frontend,124,skill_typescript,54,43.5,35.1,52.3,True,True
+Frontend,124,skill_git,33,26.6,19.6,35.0,True,False
+Frontend,124,skill_angular,25,20.2,14.0,28.1,True,False
+Frontend,124,skill_ci_cd,23,18.5,12.7,26.3,True,False
+Frontend,124,skill_graphql,22,17.7,12.0,25.4,True,False
+Frontend,124,skill_redux,21,16.9,11.4,24.5,True,False
+Frontend,124,skill_vue,18,14.5,9.4,21.8,True,False
+Frontend,124,skill_next_js,17,13.7,8.7,20.9,True,False
+Frontend,124,skill_android,16,12.9,8.1,19.9,True,False
+Frontend,124,skill_react_native,16,12.9,8.1,19.9,True,False
+Frontend,124,skill_ios,15,12.1,7.5,19.0,True,False
+Frontend,124,skill_bootstrap,15,12.1,7.5,19.0,True,False
+Frontend,124,skill_java,14,11.3,6.8,18.1,True,False
+Frontend,124,skill_figma,14,11.3,6.8,18.1,True,False
+Frontend,124,skill_github,13,10.5,6.2,17.1,True,False
+Frontend,124,skill_aws,12,9.7,5.6,16.2,True,False
+Frontend,124,skill_jest,11,8.9,5.0,15.2,True,False
+Frontend,124,skill_rest_api,10,8.1,4.4,14.2,True,False
+Frontend,124,skill_github_copilot,10,8.1,4.4,14.2,True,False
+Frontend,124,skill_claude,9,7.3,3.9,13.2,True,False
+Frontend,124,skill_cursor,9,7.3,3.9,13.2,True,False
+Frontend,124,skill_php,9,7.3,3.9,13.2,True,False
+Frontend,124,skill_playwright,9,7.3,3.9,13.2,True,False
+Frontend,124,skill_microservices,8,6.5,3.3,12.2,True,False
+Frontend,124,skill_go,7,5.6,2.8,11.2,True,False
+Frontend,124,skill_sql,6,4.8,2.2,10.2,True,False
+Frontend,124,skill_azure,6,4.8,2.2,10.2,True,False
+Frontend,124,skill_gcp,6,4.8,2.2,10.2,True,False
+Frontend,124,skill_mysql,6,4.8,2.2,10.2,True,False
+Frontend,124,skill_node_js,6,4.8,2.2,10.2,True,False
+Frontend,124,skill_dotnet,6,4.8,2.2,10.2,True,False
+Frontend,124,skill_docker,5,4.0,1.7,9.1,True,False
+Frontend,124,skill_flutter,5,4.0,1.7,9.1,True,False
+Frontend,124,skill_swift,5,4.0,1.7,9.1,True,False
+Frontend,124,skill_postgresql,4,3.2,1.3,8.0,True,False
+Frontend,124,skill_jira,4,3.2,1.3,8.0,True,False
+Frontend,124,skill_kotlin,4,3.2,1.3,8.0,True,False
+Frontend,124,skill_rabbitmq,4,3.2,1.3,8.0,True,False
+Frontend,124,skill_event_driven,3,2.4,0.8,6.9,True,False
+Frontend,124,skill_firebase,3,2.4,0.8,6.9,True,False
+Frontend,124,skill_kubernetes,2,1.6,0.4,5.7,True,False
+Frontend,124,skill_kafka,2,1.6,0.4,5.7,True,False
+Frontend,124,skill_data_warehouse,2,1.6,0.4,5.7,True,False
+Frontend,124,skill_spring,2,1.6,0.4,5.7,True,False
+Frontend,124,skill_spring_boot,2,1.6,0.4,5.7,True,False
+Frontend,124,skill_redis,2,1.6,0.4,5.7,True,False
+Frontend,124,skill_jenkins,2,1.6,0.4,5.7,True,False
+Frontend,124,skill_github_actions,2,1.6,0.4,5.7,True,False
+Frontend,124,skill_bigquery,2,1.6,0.4,5.7,True,False
+Frontend,124,skill_elasticsearch,2,1.6,0.4,5.7,True,False
+Frontend,124,skill_pci_dss,2,1.6,0.4,5.7,True,False
+Frontend,124,skill_ruby,2,1.6,0.4,5.7,True,False
+Frontend,124,skill_dart,2,1.6,0.4,5.7,True,False
+Frontend,124,skill_python,1,0.8,0.1,4.4,True,False
+Frontend,124,skill_artificial_intelligence,1,0.8,0.1,4.4,True,False
+Frontend,124,skill_agile,1,0.8,0.1,4.4,True,False
+Frontend,124,skill_oracle,1,0.8,0.1,4.4,True,False
+Frontend,124,skill_nosql,1,0.8,0.1,4.4,True,False
+Frontend,124,skill_mongodb,1,0.8,0.1,4.4,True,False
+Frontend,124,skill_gitlab,1,0.8,0.1,4.4,True,False
+Frontend,124,skill_grafana,1,0.8,0.1,4.4,True,False
+Frontend,124,skill_prometheus,1,0.8,0.1,4.4,True,False
+Frontend,124,skill_linux,1,0.8,0.1,4.4,True,False
+Frontend,124,skill_oauth,1,0.8,0.1,4.4,True,False
+Frontend,124,skill_scala,1,0.8,0.1,4.4,True,False
+Frontend,124,skill_snowflake,1,0.8,0.1,4.4,True,False
+Frontend,124,skill_owasp,1,0.8,0.1,4.4,True,False
+Frontend,124,skill_erp,1,0.8,0.1,4.4,True,False
+Frontend,124,skill_terraform,0,0.0,0.0,3.0,True,False
+Frontend,124,skill_machine_learning,0,0.0,0.0,3.0,True,False
+Frontend,124,skill_llm,0,0.0,0.0,3.0,True,False
+Frontend,124,skill_etl_elt,0,0.0,0.0,3.0,True,False
+Frontend,124,skill_spark,0,0.0,0.0,3.0,True,False
+Frontend,124,skill_sql_server,0,0.0,0.0,3.0,True,False
+Frontend,124,skill_power_bi,0,0.0,0.0,3.0,True,False
+Frontend,124,skill_software_testing,0,0.0,0.0,3.0,True,False
+Frontend,124,skill_cloud_computing,0,0.0,0.0,3.0,True,False
+Frontend,124,skill_devops,0,0.0,0.0,3.0,True,False
+Frontend,124,skill_airflow,0,0.0,0.0,3.0,True,False
+Frontend,124,skill_tableau,0,0.0,0.0,3.0,True,False
+Frontend,124,skill_business_analysis,0,0.0,0.0,3.0,True,False
+Frontend,124,skill_software_architecture,0,0.0,0.0,3.0,True,False
+Frontend,124,skill_bash_shell,0,0.0,0.0,3.0,True,False
+Frontend,124,skill_scrum,0,0.0,0.0,3.0,True,False
+Frontend,124,skill_ansible,0,0.0,0.0,3.0,True,False
+Frontend,124,skill_deep_learning,0,0.0,0.0,3.0,True,False
+Frontend,124,skill_mlops,0,0.0,0.0,3.0,True,False
+Frontend,124,skill_cybersecurity,0,0.0,0.0,3.0,True,False
+Frontend,124,skill_pytorch,0,0.0,0.0,3.0,True,False
+Frontend,124,skill_siem,0,0.0,0.0,3.0,True,False
+Frontend,124,skill_devsecops,0,0.0,0.0,3.0,True,False
+Frontend,124,skill_project_management,0,0.0,0.0,3.0,True,False
+Frontend,124,skill_computer_vision,0,0.0,0.0,3.0,True,False
+Frontend,124,skill_automation_testing,0,0.0,0.0,3.0,True,False
+Frontend,124,skill_nlp,0,0.0,0.0,3.0,True,False
+Frontend,124,skill_penetration_testing,0,0.0,0.0,3.0,True,False
+Frontend,124,skill_gitlab_ci,0,0.0,0.0,3.0,True,False
+Frontend,124,skill_tensorflow,0,0.0,0.0,3.0,True,False
+Frontend,124,skill_r,0,0.0,0.0,3.0,True,False
+Frontend,124,skill_excel,0,0.0,0.0,3.0,True,False
+Frontend,124,skill_dbt,0,0.0,0.0,3.0,True,False
+Frontend,124,skill_fastapi,0,0.0,0.0,3.0,True,False
+Frontend,124,skill_elk,0,0.0,0.0,3.0,True,False
+Frontend,124,skill_rag,0,0.0,0.0,3.0,True,False
+Frontend,124,skill_soc,0,0.0,0.0,3.0,True,False
+Frontend,124,skill_iso_27001,0,0.0,0.0,3.0,True,False
+Frontend,124,skill_csharp,0,0.0,0.0,3.0,True,False
+Frontend,124,skill_helm,0,0.0,0.0,3.0,True,False
+Frontend,124,skill_data_lake,0,0.0,0.0,3.0,True,False
+Frontend,124,skill_generative_ai,0,0.0,0.0,3.0,True,False
+Frontend,124,skill_hadoop,0,0.0,0.0,3.0,True,False
+Frontend,124,skill_argocd,0,0.0,0.0,3.0,True,False
+Frontend,124,skill_data_analysis,0,0.0,0.0,3.0,True,False
+Frontend,124,skill_looker,0,0.0,0.0,3.0,True,False
+Frontend,124,skill_postman,0,0.0,0.0,3.0,True,False
+Frontend,124,skill_powershell,0,0.0,0.0,3.0,True,False
+Frontend,124,skill_databricks,0,0.0,0.0,3.0,True,False
+Frontend,124,skill_pandas,0,0.0,0.0,3.0,True,False
+Frontend,124,skill_scikit_learn,0,0.0,0.0,3.0,True,False
+Frontend,124,skill_selenium,0,0.0,0.0,3.0,True,False
+Frontend,124,skill_crm,0,0.0,0.0,3.0,True,False
+Frontend,124,skill_flink,0,0.0,0.0,3.0,True,False
+Frontend,124,skill_cpp,0,0.0,0.0,3.0,True,False
+Frontend,124,skill_redshift,0,0.0,0.0,3.0,True,False
+Frontend,124,skill_ids_ips,0,0.0,0.0,3.0,True,False
+Frontend,124,skill_waf,0,0.0,0.0,3.0,True,False
+Frontend,124,skill_dlp,0,0.0,0.0,3.0,True,False
+Frontend,124,skill_nist,0,0.0,0.0,3.0,True,False
+Frontend,124,skill_jetpack_compose,0,0.0,0.0,3.0,True,False
+Frontend,124,skill_user_story,0,0.0,0.0,3.0,True,False
+Frontend,124,skill_uml,0,0.0,0.0,3.0,True,False
+Frontend,124,skill_bpmn,0,0.0,0.0,3.0,True,False
+Frontend,124,skill_swiftui,0,0.0,0.0,3.0,True,False
+Frontend,124,skill_cert_security,0,0.0,0.0,3.0,True,False
