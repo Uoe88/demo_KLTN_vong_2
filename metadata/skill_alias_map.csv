@@ -1,0 +1,579 @@
+﻿raw_variant,canonical,n_occurrences,group,type
+.NET,.NET,95,Backend Framework,hard
+ASP.NET,.NET,34,Backend Framework,hard
+ASP.NET Core,.NET,22,Backend Framework,hard
+.Net Core,.NET,10,Backend Framework,hard
+.Net,.NET,2,Backend Framework,hard
+.net,.NET,2,Backend Framework,hard
+Asp.Net Core,.NET,1,Backend Framework,hard
+ASP.Net,.NET,1,Backend Framework,hard
+A/B testing,A/B Testing,12,Data Analytics & BI,hard
+A/B test,A/B Testing,7,Data Analytics & BI,hard
+A/B Testing,A/B Testing,1,Data Analytics & BI,hard
+AWS,AWS,658,Cloud,hard
+S3,AWS,63,Cloud,hard
+Lambda,AWS,49,Cloud,hard
+EC2,AWS,36,Cloud,hard
+AWS Lambda,AWS,6,Cloud,hard
+AWS CloudFormation,AWS,4,Cloud,hard
+CloudFormation,AWS,3,Cloud,hard
+aws,AWS,1,Cloud,hard
+Aws,AWS,1,Cloud,hard
+ECS,AWS|Docker,51,Cloud,hard
+Adaptability,Adaptability,9,Soft Skill,soft
+adaptability,Adaptability,7,Soft Skill,soft
+Adobe,Adobe Creative Suite,5,Design/UI-UX,hard
+Adobe Photoshop,Adobe Creative Suite,3,Design/UI-UX,hard
+Agentic AI,Agentic AI,7,AI/ML,hard
+Agile,Agile,163,Methodology & Tools,hard
+agile,Agile,9,Methodology & Tools,hard
+Airflow,Airflow,108,Data Engineering,hard
+Apache Airflow,Airflow,3,Data Engineering,hard
+Alibaba Cloud,Alibaba Cloud,5,Cloud,hard
+Android,Android,148,Mobile,hard
+Angular,Angular,109,Frontend,hard
+AngularJS,Angular,1,Frontend,hard
+Ansible,Ansible,81,DevOps & Infra,hard
+Appium,Appium,3,Testing/QA,hard
+Application Security,Application Security,10,Security,hard
+ArgoCD,ArgoCD,41,DevOps & Infra,hard
+AI,Artificial Intelligence,225,AI/ML,hard
+Automation Test,Automation Testing,67,Testing/QA,hard
+Azure,Azure,453,Cloud,hard
+Synapse,Azure Synapse,4,Data Engineering,hard
+BPMN,BPMN,15,BA/PM & Product,hard
+BRD,BRD,13,BA/PM & Product,hard
+Bash,Bash/Shell,77,Programming Language,hard
+Bash Shell,Bash/Shell,5,Programming Language,hard
+bash,Bash/Shell,3,Programming Language,hard
+Big Data,Big Data,10,Data Engineering,hard
+Google BigQuery,BigQuery,3,Data Engineering,hard
+BigQuery,BigQuery|GCP|Data Warehouse,73,Data Engineering,hard
+Bigquery,BigQuery|GCP|Data Warehouse,1,Data Engineering,hard
+Bitbucket,Bitbucket,14,Methodology & Tools,hard
+BitBucket,Bitbucket,2,Methodology & Tools,hard
+bitbucket,Bitbucket,1,Methodology & Tools,hard
+Blockchain,Blockchain,7,Other Tech,hard
+Bootstrap,Bootstrap,25,Frontend,hard
+Burp Suite,Burp Suite,12,Security,hard
+Burp suite,Burp Suite,1,Security,hard
+Business Analysis,Business Analysis,90,BA/PM & Product,hard
+requirement gathering,Business Analysis,3,BA/PM & Product,hard
+Requirement Analysis,Business Analysis,1,BA/PM & Product,hard
+Requirements elicitation,Business Analysis,1,BA/PM & Product,hard
+requirements gathering,Business Analysis,1,BA/PM & Product,hard
+Business Intelligence,Business Intelligence,12,Data Analytics & BI,hard
+C language,C,7,Programming Language,hard
+C#,C#,55,Programming Language,hard
+C++,C++,31,Programming Language,hard
+CEH,CEH,30,Certification,hard
+CI/CD,CI/CD,712,DevOps & Infra,hard
+ci/cd,CI/CD,1,DevOps & Infra,hard
+CISM,CISM,23,Certification,hard
+CISSP,CISSP,35,Certification,hard
+CQRS,CQRS,12,Architecture & API,hard
+cqrs,CQRS,1,Architecture & API,hard
+CRM,CRM,33,Business & Domain,hard
+CSS,CSS,109,Frontend,hard
+CSS3,CSS,40,Frontend,hard
+CSS 3,CSS,7,Frontend,hard
+css,CSS,1,Frontend,hard
+Cassandra,Cassandra,18,Database & Storage,hard
+ChatGPT,ChatGPT,28,AI Dev Tools,hard
+Chinese,Chinese,4,Soft Skill,soft
+CircleCI,CircleCI,22,DevOps & Infra,hard
+Claude,Claude,130,AI Dev Tools,hard
+Claude Code,Claude,71,AI Dev Tools,hard
+claude,Claude,2,AI Dev Tools,hard
+claude code,Claude,1,AI Dev Tools,hard
+Clean Architecture,Clean Architecture,5,Architecture & API,hard
+ClickHouse,ClickHouse,31,Database & Storage,hard
+Clickhouse,ClickHouse,2,Database & Storage,hard
+Cloud,Cloud Computing,115,Cloud,hard
+Cloud-native Architecture,Cloud Computing,9,Cloud,hard
+Cloud Security,Cloud Security,29,Security,hard
+communication skills,Communication,222,Soft Skill,soft
+giao tiếp,Communication,49,Soft Skill,soft
+Giao tiếp,Communication,15,Soft Skill,soft
+Communication Skills,Communication,1,Soft Skill,soft
+CompTIA,CompTIA,12,Certification,hard
+COMPTIA,CompTIA,1,Certification,hard
+Computer Vision,Computer Vision,44,AI/ML,hard
+computer vision,Computer Vision,22,AI/ML,hard
+OpenCV,Computer Vision,3,AI/ML,hard
+Confluence,Confluence,36,Methodology & Tools,hard
+Consulting,Consulting,15,BA/PM & Product,hard
+core banking,Core Banking,3,Business & Domain,hard
+Core Banking,Core Banking,1,Business & Domain,hard
+critical thinking,Critical Thinking,7,Soft Skill,soft
+Critical Thinking,Critical Thinking,2,Soft Skill,soft
+Cursor,Cursor,85,AI Dev Tools,hard
+Security,Cybersecurity,53,Security,hard
+Cybersecurity,Cybersecurity,27,Security,hard
+Information Security,Cybersecurity,10,Security,hard
+Cypress,Cypress,23,Testing/QA,hard
+Embedded C,C|Embedded,6,Programming Language,hard
+DAST,DAST,18,Security,hard
+DLP,DLP,27,Security,hard
+Dart,Dart,18,Programming Language,hard
+Data Analysis,Data Analysis,40,Data Analytics & BI,hard
+Data Lake,Data Lake,32,Data Engineering,hard
+data lake,Data Lake,14,Data Engineering,hard
+Data lake,Data Lake,2,Data Engineering,hard
+Data mining,Data Mining,3,Data Analytics & BI,hard
+Data modeling,Data Modeling,7,Data Engineering,hard
+Data Modeling,Data Modeling,1,Data Engineering,hard
+Data Privacy / Compliance,Data Privacy,3,Security,hard
+Data Quality Tools,Data Quality,4,Data Engineering,hard
+Data Science,Data Science,15,AI/ML,hard
+Algorithms,Data Structures & Algorithms,7,Architecture & API,hard
+Data Warehouse,Data Warehouse,53,Data Engineering,hard
+data warehouse,Data Warehouse,36,Data Engineering,hard
+Data Warehousing,Data Warehouse,18,Data Engineering,hard
+Data warehouse,Data Warehouse,2,Data Engineering,hard
+Databricks,Databricks,34,Data Engineering,hard
+Datadog,Datadog,30,DevOps & Infra,hard
+DataDog,Datadog,4,DevOps & Infra,hard
+Deep Learning,Deep Learning,40,AI/ML,hard
+deep learning,Deep Learning,38,AI/ML,hard
+Deep learning,Deep Learning,2,AI/ML,hard
+Design Systems,Design Systems,14,Design/UI-UX,hard
+DevOps,DevOps,116,DevOps & Infra,hard
+DevSecOps,DevSecOps,68,Security,hard
+Draw.io,Diagramming Tools,3,BA/PM & Product,hard
+Visio,Diagramming Tools,2,BA/PM & Product,hard
+Django,Django,26,Backend Framework,hard
+Docker,Docker,451,DevOps & Infra,hard
+docker,Docker,4,DevOps & Infra,hard
+DDD,Domain-Driven Design,21,Architecture & API,hard
+Domain-Driven Design,Domain-Driven Design,2,Architecture & API,hard
+DynamoDB,DynamoDB|AWS|NoSQL,14,Database & Storage,hard
+EDR,EDR,8,Security,hard
+ELK,ELK,57,DevOps & Infra,hard
+ELK Stack,ELK,1,DevOps & Infra,hard
+ERP,ERP,43,Business & Domain,hard
+ETL,ETL/ELT,171,Data Engineering,hard
+ELT,ETL/ELT,80,Data Engineering,hard
+Elasticsearch,Elasticsearch,50,Database & Storage,hard
+OpenSearch,Elasticsearch,15,Database & Storage,hard
+ElasticSearch,Elasticsearch,8,Database & Storage,hard
+Embedded,Embedded,11,Other Tech,hard
+English,English,277,Soft Skill,soft
+TOEIC,English,20,Soft Skill,soft
+IELTS,English,4,Soft Skill,soft
+Toeic,English,2,Soft Skill,soft
+TOEFL,English,1,Soft Skill,soft
+Enterprise Architecture,Enterprise Architecture,6,Architecture & API,hard
+event-driven,Event-Driven,93,Architecture & API,hard
+Event-driven,Event-Driven,9,Architecture & API,hard
+Event-Driven,Event-Driven,9,Architecture & API,hard
+event driven,Event-Driven,7,Architecture & API,hard
+Event-Driven Architecture,Event-Driven,3,Architecture & API,hard
+Excel,Excel,56,Data Analytics & BI,hard
+Google Sheets,Excel,10,Data Analytics & BI,hard
+excel,Excel,2,Data Analytics & BI,hard
+express,Express,12,Backend Framework,hard
+Express,Express,8,Backend Framework,hard
+Express.js,Express,8,Backend Framework,hard
+ExpressJS,Express,3,Backend Framework,hard
+FastAPI,FastAPI,58,Backend Framework,hard
+Figma,Figma,39,Design/UI-UX,hard
+Firebase,Firebase,29,Cloud,hard
+Firewall,Firewall,10,Security,hard
+Flask,Flask,21,Backend Framework,hard
+Flink,Flink,32,Data Engineering,hard
+Flutter,Flutter,61,Mobile,hard
+French,French,7,Soft Skill,soft
+GCP,GCP,315,Cloud,hard
+Google Cloud,GCP,88,Cloud,hard
+Google cloud,GCP,2,Cloud,hard
+"Governance, Risk & Compliance",GRC,6,Security,hard
+Governance,GRC,6,Security,hard
+Risk & Compliance,GRC,6,Security,hard
+Gemini,Gemini,27,AI Dev Tools,hard
+Generative AI,Generative AI,39,AI/ML,hard
+generative AI,Generative AI,5,AI/ML,hard
+Gen AI,Generative AI,1,AI/ML,hard
+Git,Git,292,Methodology & Tools,hard
+GIT,Git,11,Methodology & Tools,hard
+git,Git,8,Methodology & Tools,hard
+GitHub,GitHub,190,Methodology & Tools,hard
+Github,GitHub,12,Methodology & Tools,hard
+github,GitHub,2,Methodology & Tools,hard
+GitHub Actions,GitHub Actions|CI/CD,94,DevOps & Infra,hard
+Github Actions,GitHub Actions|CI/CD,2,DevOps & Infra,hard
+GitHub actions,GitHub Actions|CI/CD,1,DevOps & Infra,hard
+Copilot,GitHub Copilot,104,AI Dev Tools,hard
+copilot,GitHub Copilot,3,AI Dev Tools,hard
+GitLab,GitLab,84,Methodology & Tools,hard
+Gitlab,GitLab,14,Methodology & Tools,hard
+gitlab,GitLab,2,Methodology & Tools,hard
+GitLAB,GitLab,2,Methodology & Tools,hard
+GitLab CI,GitLab CI|CI/CD,62,DevOps & Infra,hard
+Gitlab CI,GitLab CI|CI/CD,2,DevOps & Infra,hard
+Go,Go,117,Programming Language,hard
+Golang,Go,103,Programming Language,hard
+go,Go,83,Programming Language,hard
+GO,Go,2,Programming Language,hard
+Grafana,Grafana,87,DevOps & Infra,hard
+GraphQL,GraphQL,82,Architecture & API,hard
+Graphql,GraphQL,1,Architecture & API,hard
+HRM / HCM,HRM/HCM,4,Business & Domain,hard
+HTML,HTML,100,Frontend,hard
+HTML5,HTML,65,Frontend,hard
+html5,HTML,2,Frontend,hard
+html,HTML,2,Frontend,hard
+Hadoop,Hadoop,41,Data Engineering,hard
+Helm,Helm,49,DevOps & Infra,hard
+Hibernate,Hibernate/JPA,23,Backend Framework,hard
+JPA,Hibernate/JPA,19,Backend Framework,hard
+Hive,Hive,5,Data Engineering,hard
+hive,Hive,1,Data Engineering,hard
+Hugging Face,Hugging Face,3,AI/ML,hard
+Keycloak,IAM,7,Security,hard
+Okta,IAM,4,Security,hard
+Identity & Access Management,IAM,4,Security,hard
+IPS,IDS/IPS,23,Security,hard
+IDS,IDS/IPS,20,Security,hard
+IDS/IPS,IDS/IPS,6,Security,hard
+ISO 27001,ISO 27001,52,Security,hard
+ISO27001,ISO 27001,4,Security,hard
+IT Support,IT Support,7,Other Tech,hard
+ITIL Foundation,ITIL,3,Certification,hard
+Incident Response,Incident Response,7,Security,hard
+Informatica,Informatica,4,Data Engineering,hard
+Integration test,Integration Testing,4,Testing/QA,hard
+Istio,Istio,7,DevOps & Infra,hard
+istio,Istio,1,DevOps & Infra,hard
+Jmeter,JMeter,4,Testing/QA,hard
+JUnit,JUnit,24,Testing/QA,hard
+Junit,JUnit,2,Testing/QA,hard
+JWT,JWT,47,Security,hard
+Japanese,Japanese,19,Soft Skill,soft
+Japanese IT Communication,Japanese,10,Soft Skill,soft
+Java,Java,463,Programming Language,hard
+JAVA,Java,5,Programming Language,hard
+java,Java,2,Programming Language,hard
+JavaScript,JavaScript,288,Programming Language,hard
+Javascript,JavaScript,16,Programming Language,hard
+javascript,JavaScript,2,Programming Language,hard
+JAVASCRIPT,JavaScript,1,Programming Language,hard
+Jenkins,Jenkins|CI/CD,126,DevOps & Infra,hard
+JenKins,Jenkins|CI/CD,1,DevOps & Infra,hard
+Jest,Jest,22,Testing/QA,hard
+Jetpack Compose,Jetpack Compose,23,Mobile,hard
+Jira,Jira,91,Methodology & Tools,hard
+JIRA,Jira,16,Methodology & Tools,hard
+Kafka,Kafka,229,Data Engineering,hard
+kafka,Kafka,1,Data Engineering,hard
+Kanban,Kanban,3,Methodology & Tools,hard
+Korean,Korean,1,Soft Skill,soft
+Kotlin,Kotlin,104,Programming Language,hard
+kotlin,Kotlin,1,Programming Language,hard
+Kubeflow,Kubeflow,5,AI/ML,hard
+Kubernetes,Kubernetes,448,DevOps & Infra,hard
+K8s,Kubernetes,32,DevOps & Infra,hard
+k8s,Kubernetes,5,DevOps & Infra,hard
+K8S,Kubernetes,5,DevOps & Infra,hard
+kubernetes,Kubernetes,1,DevOps & Infra,hard
+EKS,Kubernetes|AWS,55,DevOps & Infra,hard
+LLM,LLM,178,AI/ML,hard
+LangChain,LangChain,18,AI/ML,hard
+Langchain,LangChain,1,AI/ML,hard
+Laravel,Laravel,20,Backend Framework,hard
+leadership,Leadership,144,Soft Skill,soft
+Leadership,Leadership,85,Soft Skill,soft
+Linux,Linux,71,DevOps & Infra,hard
+Unix,Linux,1,DevOps & Infra,hard
+Looker,Looker,25,Data Analytics & BI,hard
+Looker Studio,Looker,14,Data Analytics & BI,hard
+MLOps,MLOps,77,AI/ML,hard
+MLflow,MLflow,17,AI/ML,hard
+MLFlow,MLflow,1,AI/ML,hard
+Mlflow,MLflow,1,AI/ML,hard
+MVC,MVC,5,Architecture & API,hard
+MVVM,MVVM,8,Architecture & API,hard
+Machine Learning,Machine Learning,130,AI/ML,hard
+machine learning,Machine Learning,66,AI/ML,hard
+Machine learning,Machine Learning,2,AI/ML,hard
+MariaDB,MariaDB,7,Database & Storage,hard
+Mariadb,MariaDB,1,Database & Storage,hard
+Gradle,Maven/Gradle,16,Methodology & Tools,hard
+Maven,Maven/Gradle,13,Methodology & Tools,hard
+Message Queue,Message Queue,25,Data Engineering,hard
+message queue,Message Queue,15,Data Engineering,hard
+Message queue,Message Queue,2,Data Engineering,hard
+Metabase,Metabase,9,Data Analytics & BI,hard
+Metasploit,Metasploit,5,Security,hard
+microservices,Microservices,176,Architecture & API,hard
+Microservices,Microservices,136,Architecture & API,hard
+Microservices Architecture,Microservices,5,Architecture & API,hard
+Microsoft Fabric,Microsoft Fabric,5,Data Engineering,hard
+Middleware,Middleware,3,Architecture & API,hard
+Mockito,Mockito,14,Testing/QA,hard
+MongoDB,MongoDB,117,Database & Storage,hard
+Mongodb,MongoDB,1,Database & Storage,hard
+Monolith,Monolith,8,Architecture & API,hard
+monolith,Monolith,3,Architecture & API,hard
+MyBatis,MyBatis,3,Backend Framework,hard
+MySQL,MySQL,211,Database & Storage,hard
+Mysql,MySQL,4,Database & Storage,hard
+MYSQL,MySQL,1,Database & Storage,hard
+NIST,NIST,25,Security,hard
+NLP,NLP,65,AI/ML,hard
+Neo4j,Neo4j,4,Database & Storage,hard
+NestJS,NestJS,36,Backend Framework,hard
+Networking,Networking,31,DevOps & Infra,hard
+Next.js,Next.js|React,78,Frontend,hard
+NextJS,Next.js|React,23,Frontend,hard
+Nginx,Nginx,24,DevOps & Infra,hard
+NGINX,Nginx,4,DevOps & Infra,hard
+nginx,Nginx,1,DevOps & Infra,hard
+NiFi,NiFi,4,Data Engineering,hard
+Nmap,Nmap,5,Security,hard
+NoSQL,NoSQL,122,Database & Storage,hard
+noSQL,NoSQL,2,Database & Storage,hard
+Node.js,Node.js,120,Backend Framework,hard
+NodeJS,Node.js,65,Backend Framework,hard
+Node.JS,Node.js,3,Backend Framework,hard
+node.js,Node.js,3,Backend Framework,hard
+NumPy,NumPy,9,AI/ML,hard
+numpy,NumPy,3,AI/ML,hard
+Nuxt.js,Nuxt.js,9,Frontend,hard
+Nuxt,Nuxt.js,5,Frontend,hard
+OAuth2,OAuth,30,Security,hard
+OAuth,OAuth,23,Security,hard
+OCR,OCR,5,AI/ML,hard
+OOP,OOP,27,Architecture & API,hard
+OSCP,OSCP,25,Certification,hard
+OWASP,OWASP,44,Security,hard
+Objective-C,Objective-C,12,Programming Language,hard
+Objective C,Objective-C,1,Programming Language,hard
+Odoo,Odoo,5,Business & Domain,hard
+OpenAI,OpenAI,13,AI/ML,hard
+Swagger,OpenAPI/Swagger,12,Architecture & API,hard
+OpenAPI,OpenAPI/Swagger,12,Architecture & API,hard
+swagger,OpenAPI/Swagger,2,Architecture & API,hard
+OpenTelemetry,OpenTelemetry,21,DevOps & Infra,hard
+Oracle,Oracle,158,Database & Storage,hard
+PL/SQL,Oracle,5,Database & Storage,hard
+PCI DSS,PCI DSS,19,Security,hard
+PCI-DSS,PCI DSS,17,Security,hard
+PCIDSS,PCI DSS,2,Security,hard
+PHP,PHP,76,Programming Language,hard
+Pandas,Pandas,22,AI/ML,hard
+pandas,Pandas,12,AI/ML,hard
+Pentest,Penetration Testing,27,Security,hard
+Penetration Testing,Penetration Testing,26,Security,hard
+penetration testing,Penetration Testing,25,Security,hard
+pentest,Penetration Testing,5,Security,hard
+Playwright,Playwright,46,Testing/QA,hard
+PostgreSQL,PostgreSQL,206,Database & Storage,hard
+PostgreSql,PostgreSQL,53,Database & Storage,hard
+Postgres,PostgreSQL,17,Database & Storage,hard
+POSTGRESQL,PostgreSQL,3,Database & Storage,hard
+Postgresql,PostgreSQL,2,Database & Storage,hard
+Postman,Postman,35,Testing/QA,hard
+Power Automate,Power Automate,5,Business & Domain,hard
+Power BI,Power BI,140,Data Analytics & BI,hard
+Power Query,Power BI,12,Data Analytics & BI,hard
+power bi,Power BI,1,Data Analytics & BI,hard
+PowerPoint,PowerPoint,3,Methodology & Tools,hard
+PowerShell,PowerShell,34,Programming Language,hard
+Presale,Presales,6,BA/PM & Product,hard
+problem-solving,Problem Solving,201,Soft Skill,soft
+problem solving,Problem Solving,12,Soft Skill,soft
+Problem-Solving,Problem Solving,10,Soft Skill,soft
+Problem Solving,Problem Solving,5,Soft Skill,soft
+Problem-solving,Problem Solving,3,Soft Skill,soft
+Problem solving,Problem Solving,1,Soft Skill,soft
+Product Management,Product Management,25,BA/PM & Product,hard
+Product strategy,Product Management,3,BA/PM & Product,hard
+Product Owner,Product Owner,15,BA/PM & Product,hard
+Project Management,Project Management,68,BA/PM & Product,hard
+Prometheus,Prometheus,81,DevOps & Infra,hard
+Prompt Engineering,Prompt Engineering,6,AI/ML,hard
+Pub/Sub,Pub/Sub,18,Data Engineering,hard
+pub/sub,Pub/Sub,2,Data Engineering,hard
+PubSub,Pub/Sub,1,Data Engineering,hard
+Pulumi,Pulumi,5,DevOps & Infra,hard
+PyTorch,PyTorch,73,AI/ML,hard
+Pytorch,PyTorch,1,AI/ML,hard
+Python,Python,896,Programming Language,hard
+python,Python,5,Programming Language,hard
+Qlik,Qlik,10,Data Analytics & BI,hard
+R,R,62,Programming Language,hard
+RAG,RAG,57,AI/ML,hard
+API,REST API,119,Architecture & API,hard
+APIs,REST API,60,Architecture & API,hard
+REST API,REST API,46,Architecture & API,hard
+Web API,REST API,7,Architecture & API,hard
+RESTful,REST API,4,Architecture & API,hard
+Rest API,REST API,2,Architecture & API,hard
+RabbitMQ,RabbitMQ,80,Data Engineering,hard
+React,React,273,Frontend,hard
+ReactJS,React,91,Frontend,hard
+react,React,2,Frontend,hard
+ReAct,React,1,Frontend,hard
+React Native,React Native|React,51,Mobile,hard
+react native,React Native|React,1,Mobile,hard
+Redis,Redis,130,Database & Storage,hard
+REDIS,Redis,1,Database & Storage,hard
+Redshift,Redshift|AWS|Data Warehouse,31,Data Engineering,hard
+Redux,Redux,41,Frontend,hard
+Risk Management,Risk Management,15,Security,hard
+Robot Framework,Robot Framework,2,Testing/QA,hard
+Ruby,Ruby,32,Programming Language,hard
+Ruby on Rails,Ruby on Rails,22,Backend Framework,hard
+Ruby on rails,Ruby on Rails,1,Backend Framework,hard
+Rust,Rust,18,Programming Language,hard
+SAML,SAML,13,Security,hard
+SAP,SAP,10,Business & Domain,hard
+ABAP,SAP,1,Business & Domain,hard
+SAST,SAST,19,Security,hard
+SDLC,SDLC,4,Methodology & Tools,hard
+SIEM,SIEM,68,Security,hard
+Wazuh,SIEM,3,Security,hard
+QRadar,SIEM,2,Security,hard
+SOAP,SOAP,10,Architecture & API,hard
+Soap,SOAP,1,Architecture & API,hard
+SOAR,SOAR,6,Security,hard
+SOC,SOC,52,Security,hard
+SoC,SOC,4,Security,hard
+SOC 2,SOC 2,15,Security,hard
+SOLID Principles,SOLID,9,Architecture & API,hard
+SQL,SQL,710,Database & Storage,hard
+sql,SQL,2,Database & Storage,hard
+Sql,SQL,1,Database & Storage,hard
+T-SQL,SQL,1,Database & Storage,hard
+SQL Server,SQL Server,110,Database & Storage,hard
+MS SQL,SQL Server,16,Database & Storage,hard
+MSSQL,SQL Server,12,Database & Storage,hard
+Microsoft SQL Server,SQL Server,6,Database & Storage,hard
+Microsoft Azure SQL Database,SQL Server,5,Database & Storage,hard
+SQL server,SQL Server,4,Database & Storage,hard
+Sqlserver,SQL Server,4,Database & Storage,hard
+sql server,SQL Server,1,Database & Storage,hard
+SQLite,SQLite,8,Database & Storage,hard
+SRS,SRS,11,BA/PM & Product,hard
+SSIS,SSIS,4,Data Engineering,hard
+SSO,SSO,30,Security,hard
+SageMaker,SageMaker|AWS,10,AI/ML,hard
+Sagemaker,SageMaker|AWS,2,AI/ML,hard
+SCSS,Sass/SCSS,7,Frontend,hard
+SASS,Sass/SCSS,6,Frontend,hard
+Sass,Sass/SCSS,5,Frontend,hard
+Scala,Scala,50,Programming Language,hard
+scala,Scala,1,Programming Language,hard
+Scrum,Scrum,83,Methodology & Tools,hard
+scrum,Scrum,1,Methodology & Tools,hard
+SCRUM,Scrum,1,Methodology & Tools,hard
+Selenium,Selenium,33,Testing/QA,hard
+serverless,Serverless,32,Cloud,hard
+Serverless,Serverless,9,Cloud,hard
+Shopify,Shopify,6,Business & Domain,hard
+Slack,Slack,11,Methodology & Tools,hard
+Snowflake,Snowflake|Data Warehouse,46,Data Engineering,hard
+snowflake,Snowflake|Data Warehouse,2,Data Engineering,hard
+SNOWFLAKE,Snowflake|Data Warehouse,1,Data Engineering,hard
+Software Architecture,Software Architecture,49,Architecture & API,hard
+Solution Architecture,Software Architecture,31,Architecture & API,hard
+System Architecture,Software Architecture,26,Architecture & API,hard
+Tester,Software Testing,96,Testing/QA,hard
+QA QC,Software Testing,88,Testing/QA,hard
+Quality Assurance,Software Testing,3,Testing/QA,hard
+Spark,Spark,140,Data Engineering,hard
+spark,Spark,3,Data Engineering,hard
+Apache Spark,Spark,1,Data Engineering,hard
+PySpark,Spark|Python,22,Data Engineering,hard
+Pyspark,Spark|Python,1,Data Engineering,hard
+Splunk,Splunk,22,DevOps & Infra,hard
+splunk,Splunk,1,DevOps & Infra,hard
+Spring,Spring,147,Backend Framework,hard
+Spring Cloud,Spring,7,Backend Framework,hard
+Spring Boot,Spring Boot|Spring,138,Backend Framework,hard
+Spring boot,Spring Boot|Spring,1,Backend Framework,hard
+Stakeholder management,Stakeholder Management,19,Soft Skill,soft
+Statistical Analysis,Statistics,1,Data Analytics & BI,hard
+Supabase,Supabase,6,Cloud,hard
+Superset,Superset,9,Data Analytics & BI,hard
+SuperSet,Superset,1,Data Analytics & BI,hard
+Swift,Swift,49,Programming Language,hard
+SWIFT,Swift,7,Programming Language,hard
+swift,Swift,2,Programming Language,hard
+SwiftUI,SwiftUI,13,Mobile,hard
+System Admin,System Administration,21,Other Tech,hard
+Windows Server,System Administration,3,Other Tech,hard
+TOGAF,TOGAF,9,Certification,hard
+Tableau,Tableau,97,Data Analytics & BI,hard
+Tableu,Tableau,3,Data Analytics & BI,hard
+tableau,Tableau,1,Data Analytics & BI,hard
+Tailwind,Tailwind CSS,9,Frontend,hard
+Tailwind CSS,Tailwind CSS,5,Frontend,hard
+TailwindCSS,Tailwind CSS,2,Frontend,hard
+Talend,Talend,4,Data Engineering,hard
+Team Management,Team Management,51,Soft Skill,soft
+teamwork,Teamwork,56,Soft Skill,soft
+Teamwork,Teamwork,9,Soft Skill,soft
+TensorFlow,TensorFlow,60,AI/ML,hard
+Keras,TensorFlow,1,AI/ML,hard
+Tensorflow,TensorFlow,1,AI/ML,hard
+tensorFlow,TensorFlow,1,AI/ML,hard
+Terraform,Terraform,204,DevOps & Infra,hard
+time management,Time Management,17,Soft Skill,soft
+Time Management,Time Management,2,Soft Skill,soft
+Trello,Trello,5,Methodology & Tools,hard
+TypeScript,TypeScript,243,Programming Language,hard
+Typescript,TypeScript,14,Programming Language,hard
+UAT,UAT,12,BA/PM & Product,hard
+UI-UX,UI/UX,18,Design/UI-UX,hard
+Product Design,UI/UX,2,Design/UI-UX,hard
+UML,UML,18,Architecture & API,hard
+Unit test,Unit Testing,5,Testing/QA,hard
+Unity,Unity,8,Other Tech,hard
+use cases,Use Case,34,BA/PM & Product,hard
+use case,Use Case,6,BA/PM & Product,hard
+Use Case,Use Case,2,BA/PM & Product,hard
+User story,User Story,13,BA/PM & Product,hard
+user stories,User Story,5,BA/PM & Product,hard
+User Story,User Story,2,BA/PM & Product,hard
+VBA,VBA,4,Programming Language,hard
+VMware,VMware,6,DevOps & Infra,hard
+Vault,Vault,19,DevOps & Infra,hard
+vault,Vault,1,DevOps & Infra,hard
+Vertex AI,Vertex AI|GCP,14,AI/ML,hard
+Vite,Vite,12,Frontend,hard
+Vue,Vue,80,Frontend,hard
+VueJS,Vue,19,Frontend,hard
+Vulnerability Assessment,Vulnerability Management,2,Security,hard
+WAF,WAF,28,Security,hard
+Waterfall Methodology,Waterfall,4,Methodology & Tools,hard
+WebSocket,WebSocket,38,Architecture & API,hard
+Websocket,WebSocket,1,Architecture & API,hard
+Webpack,Webpack,10,Frontend,hard
+webpack,Webpack,1,Frontend,hard
+Windsurf,Windsurf,8,AI Dev Tools,hard
+Wireframing,Wireframing,6,BA/PM & Product,hard
+prototype,Wireframing,6,BA/PM & Product,hard
+Prototyping,Wireframing,2,BA/PM & Product,hard
+Prototype,Wireframing,2,BA/PM & Product,hard
+Wireframe,Wireframing,1,BA/PM & Product,hard
+Wireshark,Wireshark,7,Security,hard
+Wordpress,WordPress,4,Business & Domain,hard
+Xcode,Xcode,7,Mobile,hard
+xcode,Xcode,1,Mobile,hard
+Zero Trust,Zero Trust,10,Security,hard
+Zero Trust Architecture,Zero Trust,3,Security,hard
+zero trust,Zero Trust,2,Security,hard
+dbt,dbt,51,Data Engineering,hard
+DBT,dbt,8,Data Engineering,hard
+Dbt,dbt,1,Data Engineering,hard
+gRPC,gRPC,41,Architecture & API,hard
+iOS,iOS,107,Mobile,hard
+IOS,iOS,3,Mobile,hard
+JQuery,jQuery,2,Frontend,hard
+k6,k6,2,Testing/QA,hard
+pytest,pytest,5,Testing/QA,hard
+Scikit-learn,scikit-learn,17,AI/ML,hard
+scikit-learn,scikit-learn,15,AI/ML,hard
+Scikit-Learn,scikit-learn,1,AI/ML,hard

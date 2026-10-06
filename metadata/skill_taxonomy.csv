@@ -1,0 +1,321 @@
+﻿canonical,group,subgroup,type,signal,n_jobs,df_pct,df_ITviec_pct,df_LinkedIn_pct,df_XomJobs_pct,df_TopCV_pct,tier,is_role_defining,role_core_best_role,role_core_best_pct,role_core_best_lift,role_core_all,in_binary,binary_reason,aliases
+Python,Programming Language,Language,hard,skills_raw,901,35.6,23.8,29.7,69.9,81.8,A (>=5%),True,Data Scientist,90.9,2.66,"Data Scientist (90.9%, lift 2.66); Data Engineer (68.5%, lift 2.11); Data Analyst (63.3%, lift 1.87); AI Engineer (58.7%, lift 1.82)",True,global+role_core,
+CI/CD,DevOps & Infra,Tooling,hard,skills_raw,741,29.28,24.9,45.9,10.9,0.0,A (>=5%),True,DevOps/SRE,65.8,2.71,"DevOps/SRE (65.8%, lift 2.71); Architect (48.1%, lift 1.74); Fullstack (41.7%, lift 1.52)",True,global+role_core,continuous integration; continuous delivery; continuous deployment
+SQL,Database & Storage,Database,hard,skills_raw,713,28.17,22.6,16.3,59.3,72.7,A (>=5%),True,Data Analyst,78.9,3.15,"Data Analyst (78.9%, lift 3.15); Data Engineer (71.2%, lift 2.96); Data Scientist (75.8%, lift 2.82)",True,global+role_core,t-sql; sql query
+AWS,Cloud,Platform,hard,skills_raw,681,26.91,17.5,38.5,27.6,9.1,A (>=5%),True,DevOps/SRE,57.0,2.51,"DevOps/SRE (57.0%, lift 2.51); Architect (49.0%, lift 1.97); Data Engineer (39.6%, lift 1.54)",True,global+role_core,amazon web services; s3; ec2; lambda; aws lambda; cloudformation; aws cloudformation
+Docker,DevOps & Infra,Tooling,hard,skills_raw,476,18.81,13.8,27.4,15.0,9.1,A (>=5%),True,DevOps/SRE,37.5,2.31,"DevOps/SRE (37.5%, lift 2.31); Architect (35.1%, lift 2.02); Fullstack (31.8%, lift 1.88)",True,global+role_core,containerization; containers
+Kubernetes,DevOps & Infra,Tooling,hard,skills_raw,476,18.81,14.5,28.6,11.9,0.0,A (>=5%),True,DevOps/SRE,58.6,4.41,"DevOps/SRE (58.6%, lift 4.41); Architect (33.2%, lift 1.89)",True,global+role_core,k8s; aks; gke; openshift
+Java,Programming Language,Language,hard,skills_raw,470,18.57,18.1,23.3,11.9,0.0,A (>=5%),True,Backend,51.0,3.24,"Backend (51.0%, lift 3.24); Fullstack (32.2%, lift 1.93); Architect (31.7%, lift 1.82); Mobile (28.1%, lift 1.56)",True,global+role_core,
+Azure,Cloud,Platform,hard,skills_raw,453,17.9,9.1,25.2,24.6,9.1,A (>=5%),True,Data Engineer,33.3,2.03,"Data Engineer (33.3%, lift 2.03); Architect (31.7%, lift 1.90); DevOps/SRE (28.3%, lift 1.72)",True,global+role_core,microsoft azure
+GCP,Cloud,Platform,hard,skills_raw,404,15.96,6.8,22.5,24.8,0.0,A (>=5%),True,Data Engineer,29.3,1.99,"Data Engineer (29.3%, lift 1.99); DevOps/SRE (27.7%, lift 1.93); Architect (27.9%, lift 1.87)",True,global+role_core,google cloud; google cloud platform
+React,Frontend,Framework/Markup,hard,skills_raw,350,13.83,13.7,22.3,0.0,0.0,A (>=5%),True,Fullstack,57.3,7.48,"Fullstack (57.3%, lift 7.48); Frontend (56.5%, lift 4.85)",True,global+role_core,reactjs
+Microservices,Architecture & API,Design,hard,skills_raw,316,12.49,13.4,18.8,0.0,0.0,A (>=5%),True,Architect,38.9,3.85,"Architect (38.9%, lift 3.85); Backend (36.1%, lift 3.46); Fullstack (24.8%, lift 2.31)",True,global+role_core,microservice; microservices architecture
+Git,Methodology & Tools,Process/Tool,hard,skills_raw,311,12.29,7.7,19.0,10.6,18.2,A (>=5%),True,Mobile,28.8,2.54,"Mobile (28.8%, lift 2.54); Frontend (26.6%, lift 2.30); Fullstack (22.6%, lift 2.09); Backend (18.3%, lift 1.56)",True,global+role_core,version control
+JavaScript,Programming Language,Language,hard,skills_raw,307,12.13,10.0,20.7,2.5,0.0,A (>=5%),True,Frontend,66.9,7.19,"Frontend (66.9%, lift 7.19); Fullstack (41.4%, lift 5.19)",True,global+role_core,js; es6; ecmascript
+PostgreSQL,Database & Storage,Database,hard,skills_raw,279,11.02,9.6,14.7,8.1,0.0,A (>=5%),True,Fullstack,29.0,3.42,"Fullstack (29.0%, lift 3.42); Backend (27.7%, lift 2.90)",True,global+role_core,postgres; postgre
+Go,Programming Language,Language,hard,skills_raw,274,10.83,9.3,18.7,1.0,0.0,A (>=5%),True,DevOps/SRE,21.8,2.34,"DevOps/SRE (21.8%, lift 2.34); Architect (18.8%, lift 1.85); Backend (18.3%, lift 1.80)",True,global+role_core,golang
+TypeScript,Programming Language,Language,hard,skills_raw,257,10.15,8.4,18.5,0.0,0.0,A (>=5%),True,Fullstack,41.1,7.12,"Fullstack (41.1%, lift 7.12); Frontend (43.5%, lift 5.16)",True,global+role_core,ts
+Kafka,Data Engineering,Pipeline/Platform,hard,skills_raw,230,9.09,7.6,9.3,11.9,9.1,A (>=5%),True,Data Engineer,27.5,3.75,"Data Engineer (27.5%, lift 3.75); Backend (22.3%, lift 2.80); Architect (14.4%, lift 1.68)",True,global+role_core,apache kafka
+Artificial Intelligence,AI/ML,ML/AI,hard,skills_raw,225,8.89,19.8,0.0,0.2,36.4,A (>=5%),True,AI Engineer,48.0,15.78,"AI Engineer (48.0%, lift 15.78)",True,global+role_core,ai; artificial intelligence; ai/ml
+REST API,Architecture & API,Design,hard,skills_raw,218,8.61,10.4,3.0,14.4,0.0,A (>=5%),True,QA/Tester,24.5,3.1,"QA/Tester (24.5%, lift 3.10); AI Engineer (17.3%, lift 2.37); Backend (14.4%, lift 1.77)",True,global+role_core,api; apis; restful; restful api; rest; web api; api development; api design
+MySQL,Database & Storage,Database,hard,skills_raw,216,8.53,8.1,10.6,6.1,0.0,A (>=5%),True,Backend,23.8,3.29,"Backend (23.8%, lift 3.29); Fullstack (21.0%, lift 3.11); Architect (13.0%, lift 1.60)",True,global+role_core,
+Terraform,DevOps & Infra,Tooling,hard,skills_raw,204,8.06,5.0,15.5,2.1,0.0,A (>=5%),True,DevOps/SRE,41.7,12.2,"DevOps/SRE (41.7%, lift 12.20)",True,global+role_core,
+GitHub,Methodology & Tools,Process/Tool,hard,skills_raw,204,8.06,6.3,15.1,0.0,0.0,A (>=5%),True,DevOps/SRE,17.9,2.67,"DevOps/SRE (17.9%, lift 2.67); Fullstack (16.9%, lift 2.48); Architect (13.0%, lift 1.70); Mobile (12.9%, lift 1.67)",True,global+role_core,
+Machine Learning,AI/ML,ML/AI,hard,skills_raw,198,7.82,5.4,0.0,25.0,72.7,A (>=5%),True,Data Scientist,62.1,9.75,"Data Scientist (62.1%, lift 9.75); AI Engineer (30.4%, lift 6.83); Data Engineer (17.1%, lift 2.47)",True,global+role_core,ml
+Data Warehouse,Data Engineering,Pipeline/Platform,hard,skills_raw,190,7.51,2.4,2.1,27.6,0.0,A (>=5%),True,Data Engineer,41.0,9.56,"Data Engineer (41.0%, lift 9.56); Data Analyst (32.7%, lift 5.48)",True,global+role_core,data warehousing; dwh
+LLM,AI/ML,ML/AI,hard,skills_raw,178,7.03,5.4,0.0,22.6,0.0,A (>=5%),True,AI Engineer,39.2,17.62,"AI Engineer (39.2%, lift 17.62); Data Engineer (10.8%, lift 1.62)",True,global+role_core,llms; large language model; large language models
+Node.js,Backend Framework,Framework,hard,skills_raw,175,6.91,7.3,10.6,0.0,0.0,A (>=5%),True,Fullstack,28.7,7.48,"Fullstack (28.7%, lift 7.48); Architect (16.3%, lift 2.69)",True,global+role_core,node
+ETL/ELT,Data Engineering,Pipeline/Platform,hard,skills_raw,174,6.87,3.8,0.9,23.8,0.0,A (>=5%),True,Data Engineer,49.1,17.44,"Data Engineer (49.1%, lift 17.44); Data Analyst (19.7%, lift 3.24)",True,global+role_core,etl; elt; data pipeline; data pipelines
+Agile,Methodology & Tools,Process/Tool,hard,skills_raw,172,6.8,8.8,0.0,14.2,0.0,A (>=5%),True,PM/BA,45.2,10.17,"PM/BA (45.2%, lift 10.17); QA/Tester (16.0%, lift 2.51); Data Engineer (11.3%, lift 1.77)",True,global+role_core,agile methodology
+Spring,Backend Framework,Framework,hard,skills_raw,164,6.48,10.1,5.9,0.0,0.0,A (>=5%),True,Backend,35.6,9.02,"Backend (35.6%, lift 9.02); Fullstack (16.6%, lift 3.28); Architect (15.4%, lift 2.71)",True,global+role_core,spring framework; spring mvc; spring cloud; spring data; spring security
+Oracle,Database & Storage,Database,hard,skills_raw,159,6.28,5.8,6.2,7.3,9.1,A (>=5%),True,Backend,14.9,2.68,"Backend (14.9%, lift 2.68); Architect (11.1%, lift 1.89); Data Engineer (10.8%, lift 1.85); Data Analyst (9.5%, lift 1.57)",True,global+role_core,oracle db; oracle database; pl/sql
+HTML,Frontend,Framework/Markup,hard,skills_raw,158,6.24,3.4,13.5,0.0,0.0,A (>=5%),True,Frontend,59.7,17.1,"Frontend (59.7%, lift 17.10); Fullstack (21.3%, lift 5.20)",True,global+role_core,html5
+Spark,Data Engineering,Pipeline/Platform,hard,skills_raw,153,6.05,1.9,1.8,21.5,36.4,A (>=5%),True,Data Engineer,40.5,14.86,"Data Engineer (40.5%, lift 14.86); Data Scientist (36.4%, lift 6.95)",True,global+role_core,apache spark; pyspark
+Android,Mobile,Platform/Framework,hard,skills_raw,148,5.85,4.7,10.8,0.0,0.0,A (>=5%),True,Mobile,61.2,23.22,"Mobile (61.2%, lift 23.22); Frontend (12.9%, lift 2.35)",True,global+role_core,
+SQL Server,Database & Storage,Database,hard,skills_raw,148,5.85,4.7,6.3,7.7,0.0,A (>=5%),True,Fullstack,14.6,3.18,"Fullstack (14.6%, lift 3.18); Data Engineer (12.6%, lift 2.43); Backend (11.4%, lift 2.12)",True,global+role_core,ms sql; mssql; microsoft sql server; microsoft azure sql database; ms sql server
+CSS,Frontend,Framework/Markup,hard,skills_raw,142,5.61,2.1,13.4,0.0,0.0,A (>=5%),True,Frontend,57.3,19.41,"Frontend (57.3%, lift 19.41); Fullstack (18.5%, lift 4.88)",True,global+role_core,css3
+Power BI,Data Analytics & BI,Analytics/BI,hard,skills_raw,141,5.57,2.2,0.0,21.7,27.3,A (>=5%),True,Data Analyst,57.1,23.9,"Data Analyst (57.1%, lift 23.90); Data Scientist (15.2%, lift 2.85); Data Engineer (13.5%, lift 2.81); PM/BA (8.9%, lift 1.66)",True,global+role_core,powerbi; microsoft power bi; power query; dax
+Spring Boot,Backend Framework,Framework,hard,skills_raw,139,5.49,8.8,4.6,0.0,0.0,A (>=5%),True,Backend,32.2,10.13,"Backend (32.2%, lift 10.13); Fullstack (14.0%, lift 3.27); Architect (11.1%, lift 2.21)",True,global+role_core,springboot
+NoSQL,Database & Storage,Database,hard,skills_raw,136,5.37,1.7,9.4,6.3,9.1,A (>=5%),True,Architect,14.9,3.3,"Architect (14.9%, lift 3.30); Fullstack (11.5%, lift 2.54); Data Engineer (9.9%, lift 2.01)",True,global+role_core,
+Claude,AI Dev Tools,AI coding assistant,hard,skills_raw,132,5.22,5.8,7.7,0.0,0.0,A (>=5%),True,Fullstack,15.0,3.9,"Fullstack (15.0%, lift 3.90); Architect (11.1%, lift 2.36)",True,global+role_core,claude code; anthropic
+Redis,Database & Storage,Database,hard,skills_raw,131,5.18,5.1,8.0,0.6,0.0,A (>=5%),True,Backend,18.3,4.54,"Backend (18.3%, lift 4.54); Fullstack (14.6%, lift 3.82); Architect (10.6%, lift 2.25)",True,global+role_core,
+Jenkins,DevOps & Infra,Tooling,hard,skills_raw,127,5.02,3.6,9.4,0.8,0.0,A (>=5%),True,DevOps/SRE,19.5,6.49,"DevOps/SRE (19.5%, lift 6.49)",True,global+role_core,
+Software Testing,Testing/QA,Testing,hard,skills_raw,126,4.98,11.1,0.3,0.0,0.0,B (2-5%),True,QA/Tester,87.7,64.47,"QA/Tester (87.7%, lift 64.47)",True,global+role_core,qa qc; qa; qc; tester; testing; manual testing; manual test; software tester; quality assurance
+Cloud Computing,Cloud,Platform,hard,skills_raw,123,4.86,10.8,0.1,0.2,9.1,B (2-5%),True,DevOps/SRE,22.1,8.96,"DevOps/SRE (22.1%, lift 8.96)",True,global+role_core,cloud; cloud native; cloud-native architecture; cloud infrastructure; hybrid cloud; public cloud; cloud migration
+Event-Driven,Architecture & API,Design,hard,skills_raw,120,4.74,4.9,7.3,0.0,0.0,B (2-5%),True,Architect,20.7,6.24,"Architect (20.7%, lift 6.24); Backend (17.3%, lift 4.75)",True,global+role_core,event driven; event-driven architecture; eda
+MongoDB,Database & Storage,Database,hard,skills_raw,118,4.66,4.1,6.5,2.7,0.0,B (2-5%),True,Fullstack,15.3,4.84,"Fullstack (15.3%, lift 4.84); Backend (10.4%, lift 2.50); Architect (8.7%, lift 2.01)",True,global+role_core,mongo
+DevOps,DevOps & Infra,Tooling,hard,skills_raw,116,4.58,10.4,0.0,0.0,0.0,B (2-5%),True,DevOps/SRE,27.7,19.86,"DevOps/SRE (27.7%, lift 19.86)",True,global+role_core,sre; site reliability
+Angular,Frontend,Framework/Markup,hard,skills_raw,110,4.35,4.0,7.3,0.0,0.0,B (2-5%),True,Fullstack,20.1,9.46,"Fullstack (20.1%, lift 9.46); Frontend (20.2%, lift 5.71)",True,global+role_core,angularjs
+iOS,Mobile,Platform/Framework,hard,skills_raw,110,4.35,3.2,8.4,0.0,0.0,B (2-5%),True,Mobile,41.0,18.51,"Mobile (41.0%, lift 18.51); Frontend (12.1%, lift 3.06)",True,global+role_core,
+Airflow,Data Engineering,Pipeline/Platform,hard,skills_raw,109,4.31,1.0,1.8,15.7,0.0,B (2-5%),True,Data Engineer,30.6,17.25,"Data Engineer (30.6%, lift 17.25)",True,global+role_core,apache airflow; cloud composer
+GitHub Copilot,AI Dev Tools,AI coding assistant,hard,skills_raw,107,4.23,4.0,7.1,0.0,0.0,B (2-5%),True,Fullstack,13.4,4.56,"Fullstack (13.4%, lift 4.56); Architect (10.1%, lift 2.73); Frontend (8.1%, lift 2.00)",True,global+role_core,copilot; microsoft copilot
+Jira,Methodology & Tools,Process/Tool,hard,skills_raw,107,4.23,6.1,2.9,2.5,0.0,B (2-5%),True,PM/BA,20.5,6.36,"PM/BA (20.5%, lift 6.36); QA/Tester (18.9%, lift 5.26)",True,global+role_core,
+Kotlin,Programming Language,Language,hard,skills_raw,105,4.15,3.1,7.9,0.0,0.0,B (2-5%),True,Mobile,46.8,27.96,"Mobile (46.8%, lift 27.96)",True,global+role_core,
+.NET,Backend Framework,Framework,hard,skills_raw,105,4.15,7.0,3.0,0.0,0.0,B (2-5%),True,Fullstack,14.6,5.5,"Fullstack (14.6%, lift 5.50); Backend (16.3%, lift 5.28)",True,global+role_core,.net core; dotnet; .net framework; asp.net; asp.net core; asp.net mvc
+GitLab,Methodology & Tools,Process/Tool,hard,skills_raw,102,4.03,2.5,8.4,0.0,0.0,B (2-5%),True,DevOps/SRE,17.3,7.84,"DevOps/SRE (17.3%, lift 7.84)",True,global+role_core,
+Tableau,Data Analytics & BI,Analytics/BI,hard,skills_raw,101,3.99,0.6,0.0,17.5,27.3,B (2-5%),True,Data Analyst,44.2,29.28,"Data Analyst (44.2%, lift 29.28); Data Engineer (10.8%, lift 3.24)",True,global+role_core,tableu
+GitHub Actions,DevOps & Infra,Tooling,hard,skills_raw,97,3.83,2.8,7.4,0.0,0.0,B (2-5%),True,DevOps/SRE,13.4,5.3,"DevOps/SRE (13.4%, lift 5.30)",True,global+role_core,github action
+Business Analysis,BA/PM & Product,BA/PM,hard,skills_raw,96,3.79,8.1,0.0,1.2,0.0,B (2-5%),True,PM/BA,47.3,41.75,"PM/BA (47.3%, lift 41.75)",True,global+role_core,business analyst; ba; requirement analysis; requirements analysis; requirement gathering; requirements gathering; requirements elicitation
+Software Architecture,Architecture & API,Design,hard,skills_raw,95,3.75,8.5,0.0,0.0,0.0,B (2-5%),False,,,,,True,global,system architecture; solution architecture; technical architecture; system design; architecture; solution design; software architect
+Vue,Frontend,Framework/Markup,hard,skills_raw,92,3.63,3.2,6.3,0.0,0.0,B (2-5%),True,Fullstack,17.5,10.5,"Fullstack (17.5%, lift 10.50); Frontend (14.5%, lift 4.72)",True,global+role_core,vuejs; vue 3
+Next.js,Frontend,Framework/Markup,hard,skills_raw,91,3.6,4.3,4.9,0.0,0.0,B (2-5%),True,Fullstack,16.2,9.0,"Fullstack (16.2%, lift 9.00); Frontend (13.7%, lift 4.46)",True,global+role_core,next
+Grafana,DevOps & Infra,Tooling,hard,skills_raw,87,3.44,0.5,8.7,0.8,0.0,B (2-5%),True,DevOps/SRE,18.6,13.76,"DevOps/SRE (18.6%, lift 13.76)",True,global+role_core,
+Bash/Shell,Programming Language,Language,hard,skills_raw,85,3.36,0.4,9.0,0.0,0.0,B (2-5%),True,DevOps/SRE,18.6,14.75,"DevOps/SRE (18.6%, lift 14.75); Security (11.8%, lift 4.61)",True,global+role_core,bash; shell; shell scripting; bash shell; sh
+Cursor,AI Dev Tools,AI coding assistant,hard,skills_raw,85,3.36,3.2,5.5,0.0,0.0,B (2-5%),True,Fullstack,13.4,6.9,"Fullstack (13.4%, lift 6.90)",True,global+role_core,cursor ai
+Scrum,Methodology & Tools,Process/Tool,hard,skills_raw,85,3.36,3.7,0.0,8.4,0.0,B (2-5%),True,PM/BA,27.4,14.52,"PM/BA (27.4%, lift 14.52)",True,global+role_core,
+GraphQL,Architecture & API,Design,hard,skills_raw,83,3.28,1.9,7.0,0.0,0.0,B (2-5%),True,Frontend,17.7,7.0,"Frontend (17.7%, lift 7.00); Fullstack (10.2%, lift 4.43)",True,global+role_core,
+Ansible,DevOps & Infra,Tooling,hard,skills_raw,81,3.2,2.0,6.7,0.0,0.0,B (2-5%),True,DevOps/SRE,20.2,23.64,"DevOps/SRE (20.2%, lift 23.64)",True,global+role_core,
+Prometheus,DevOps & Infra,Tooling,hard,skills_raw,81,3.2,0.3,8.8,0.0,0.0,B (2-5%),True,DevOps/SRE,18.9,18.27,"DevOps/SRE (18.9%, lift 18.27)",True,global+role_core,
+RabbitMQ,Data Engineering,Pipeline/Platform,hard,skills_raw,80,3.16,2.6,5.8,0.0,0.0,B (2-5%),True,Fullstack,8.9,3.8,"Fullstack (8.9%, lift 3.80)",True,global+role_core,
+Deep Learning,AI/ML,ML/AI,hard,skills_raw,80,3.16,1.6,0.0,11.1,36.4,B (2-5%),True,Data Scientist,36.4,16.01,"Data Scientist (36.4%, lift 16.01); AI Engineer (15.8%, lift 12.43)",True,global+role_core,dl
+MLOps,AI/ML,ML/AI,hard,skills_raw,77,3.04,1.1,0.0,12.3,9.1,B (2-5%),True,AI Engineer,14.9,11.71,"AI Engineer (14.9%, lift 11.71); Data Scientist (21.2%, lift 8.30)",True,global+role_core,
+PHP,Programming Language,Language,hard,skills_raw,76,3.0,3.1,4.7,0.0,0.0,B (2-5%),False,,,,,True,global,
+BigQuery,Data Engineering,Pipeline/Platform,hard,skills_raw,75,2.96,0.8,1.7,9.8,0.0,B (2-5%),True,Data Engineer,12.6,6.2,"Data Engineer (12.6%, lift 6.20); Data Analyst (11.6%, lift 4.75)",True,global+role_core,google bigquery
+Cybersecurity,Security,Security,hard,skills_raw,75,2.96,6.7,0.0,0.0,0.0,B (2-5%),True,Security,14.5,7.78,"Security (14.5%, lift 7.78); DevOps/SRE (9.4%, lift 4.57)",True,global+role_core,cyber security; information security; infosec; security; it security; network security
+PyTorch,AI/ML,ML/AI,hard,skills_raw,74,2.92,1.1,0.0,11.7,9.1,B (2-5%),True,AI Engineer,16.7,19.37,"AI Engineer (16.7%, lift 19.37); Data Scientist (22.7%, lift 9.50)",True,global+role_core,
+Linux,DevOps & Infra,Tooling,hard,skills_raw,71,2.81,5.3,0.0,2.3,0.0,B (2-5%),True,DevOps/SRE,11.4,7.04,"DevOps/SRE (11.4%, lift 7.04)",True,global+role_core,unix; linux administration
+Elasticsearch,Database & Storage,Database,hard,skills_raw,69,2.73,2.3,4.2,1.2,0.0,B (2-5%),False,,,,,True,global,elastic search; elastic; opensearch
+SIEM,Security,Security,hard,skills_raw,68,2.69,1.5,5.8,0.0,0.0,B (2-5%),True,Security,25.8,54.16,"Security (25.8%, lift 54.16)",True,global+role_core,wazuh; qradar
+DevSecOps,Security,Security,hard,skills_raw,68,2.69,1.7,5.5,0.0,0.0,B (2-5%),True,Security,10.9,5.7,"Security (10.9%, lift 5.70); Architect (9.6%, lift 4.65)",True,global+role_core,
+Project Management,BA/PM & Product,BA/PM,hard,skills_raw,68,2.69,5.9,0.2,0.0,0.0,B (2-5%),True,PM/BA,29.5,28.1,"PM/BA (29.5%, lift 28.10)",True,global+role_core,project manager; pmp
+Computer Vision,AI/ML,ML/AI,hard,skills_raw,67,2.65,1.6,0.0,9.4,0.0,B (2-5%),True,AI Engineer,19.1,105.41,"AI Engineer (19.1%, lift 105.41)",True,global+role_core,cv; image processing; opencv
+Automation Testing,Testing/QA,Testing,hard,skills_raw,67,2.65,6.0,0.0,0.0,0.0,B (2-5%),True,QA/Tester,47.2,67.29,"QA/Tester (47.2%, lift 67.29)",True,global+role_core,automation test; test automation; automated testing
+NLP,AI/ML,ML/AI,hard,skills_raw,65,2.57,1.3,0.0,9.6,0.0,B (2-5%),True,AI Engineer,15.8,26.77,"AI Engineer (15.8%, lift 26.77)",True,global+role_core,natural language processing
+Penetration Testing,Security,Security,hard,skills_raw,65,2.57,1.1,6.0,0.0,0.0,B (2-5%),True,Security,24.0,46.17,"Security (24.0%, lift 46.17)",True,global+role_core,pentest; pen test; pentesting; vapt; red team; ethical hacking
+GitLab CI,DevOps & Infra,Tooling,hard,skills_raw,64,2.53,1.8,5.0,0.0,0.0,B (2-5%),True,DevOps/SRE,13.0,12.07,"DevOps/SRE (13.0%, lift 12.07)",True,global+role_core,gitlab ci/cd; gitlab pipelines
+TensorFlow,AI/ML,ML/AI,hard,skills_raw,63,2.49,0.8,0.0,10.2,9.1,B (2-5%),True,Data Scientist,24.2,12.71,"Data Scientist (24.2%, lift 12.71); AI Engineer (11.9%, lift 10.88)",True,global+role_core,keras
+R,Programming Language,Language,hard,skills_raw,62,2.45,0.3,0.0,11.1,9.1,B (2-5%),True,Data Analyst,16.3,10.24,"Data Analyst (16.3%, lift 10.24); Data Scientist (19.7%, lift 9.91)",True,global+role_core,r language; r programming
+Flutter,Mobile,Platform/Framework,hard,skills_raw,61,2.41,2.7,3.5,0.0,0.0,B (2-5%),True,Mobile,18.0,11.95,"Mobile (18.0%, lift 11.95)",True,global+role_core,
+Excel,Data Analytics & BI,Analytics/BI,hard,skills_raw,61,2.41,0.0,0.0,11.5,9.1,B (2-5%),True,Data Analyst,25.9,26.79,"Data Analyst (25.9%, lift 26.79)",True,global+role_core,microsoft excel; google sheets; spreadsheet; advanced excel
+dbt,Data Engineering,Pipeline/Platform,hard,skills_raw,60,2.37,0.6,0.2,9.8,0.0,B (2-5%),True,Data Engineer,20.3,31.2,"Data Engineer (20.3%, lift 31.20)",True,global+role_core,
+Swift,Programming Language,Language,hard,skills_raw,58,2.29,1.4,4.7,0.0,0.0,B (2-5%),True,Mobile,24.5,24.38,"Mobile (24.5%, lift 24.38)",True,global+role_core,
+FastAPI,Backend Framework,Framework,hard,skills_raw,58,2.29,3.0,2.0,1.3,0.0,B (2-5%),False,,,,,True,global,
+ELK,DevOps & Infra,Tooling,hard,skills_raw,58,2.29,0.1,6.4,0.0,0.0,B (2-5%),True,DevOps/SRE,12.1,12.76,"DevOps/SRE (12.1%, lift 12.76)",True,global+role_core,elk stack; elastic stack; kibana; logstash
+RAG,AI/ML,ML/AI,hard,skills_raw,57,2.25,0.4,0.0,10.2,0.0,B (2-5%),True,AI Engineer,13.4,22.65,"AI Engineer (13.4%, lift 22.65)",True,global+role_core,retrieval augmented generation
+SOC,Security,Security,hard,skills_raw,56,2.21,0.0,6.3,0.0,0.0,B (2-5%),True,Security,20.8,48.08,"Security (20.8%, lift 48.08)",True,global+role_core,security operations center; soc analyst
+ISO 27001,Security,Security,hard,skills_raw,56,2.21,0.3,6.0,0.0,0.0,B (2-5%),True,Security,17.2,22.07,"Security (17.2%, lift 22.07)",True,global+role_core,iso/iec 27001
+C#,Programming Language,Language,hard,skills_raw,55,2.17,4.9,0.0,0.0,0.0,B (2-5%),True,Backend,11.4,8.29,"Backend (11.4%, lift 8.29)",True,global+role_core,csharp
+React Native,Mobile,Platform/Framework,hard,skills_raw,52,2.05,1.3,4.2,0.0,0.0,B (2-5%),True,Frontend,12.9,8.63,"Frontend (12.9%, lift 8.63); Mobile (11.5%, lift 7.65)",True,global+role_core,
+OAuth,Security,Security,hard,skills_raw,52,2.05,1.4,4.1,0.0,0.0,B (2-5%),False,,,,,True,global,oauth2; openid connect; oidc
+Scala,Programming Language,Language,hard,skills_raw,51,2.02,0.3,1.4,6.9,0.0,B (2-5%),True,Data Engineer,12.6,12.66,"Data Engineer (12.6%, lift 12.66)",True,global+role_core,
+Snowflake,Data Engineering,Pipeline/Platform,hard,skills_raw,49,1.94,0.4,0.8,7.3,0.0,C (1-2%),True,Data Engineer,15.3,23.58,"Data Engineer (15.3%, lift 23.58)",True,role_core,
+Helm,DevOps & Infra,Tooling,hard,skills_raw,49,1.94,1.0,4.3,0.0,0.0,C (1-2%),True,DevOps/SRE,12.7,28.25,"DevOps/SRE (12.7%, lift 28.25)",True,role_core,
+Data Lake,Data Engineering,Pipeline/Platform,hard,skills_raw,48,1.9,0.0,0.0,9.2,0.0,C (1-2%),True,Data Engineer,17.6,45.07,"Data Engineer (17.6%, lift 45.07)",True,role_core,lakehouse; data lakehouse
+JWT,Security,Security,hard,skills_raw,47,1.86,1.3,3.6,0.0,0.0,C (1-2%),False,,,,,False,,
+Playwright,Testing/QA,Testing,hard,skills_raw,46,1.82,3.0,1.5,0.0,0.0,C (1-2%),True,QA/Tester,15.1,12.2,"QA/Tester (15.1%, lift 12.20)",True,role_core,
+Generative AI,AI/ML,ML/AI,hard,skills_raw,45,1.78,2.0,0.0,4.2,9.1,C (1-2%),True,AI Engineer,10.9,26.77,"AI Engineer (10.9%, lift 26.77)",True,role_core,genai; gen ai
+OWASP,Security,Security,hard,skills_raw,44,1.74,0.4,4.4,0.0,0.0,C (1-2%),True,Security,13.6,22.4,"Security (13.6%, lift 22.40)",True,role_core,owasp top 10
+ERP,Business & Domain,Platform,hard,skills_raw,43,1.7,2.9,0.0,2.1,0.0,C (1-2%),True,PM/BA,14.4,15.59,"PM/BA (14.4%, lift 15.59)",True,role_core,
+Message Queue,Data Engineering,Pipeline/Platform,hard,skills_raw,42,1.66,1.7,2.6,0.0,0.0,C (1-2%),False,,,,,False,,mq; message broker; messaging
+Redux,Frontend,Framework/Markup,hard,skills_raw,41,1.62,0.4,4.2,0.0,0.0,C (1-2%),True,Frontend,16.9,20.38,"Frontend (16.9%, lift 20.38)",True,role_core,redux toolkit
+Hadoop,Data Engineering,Pipeline/Platform,hard,skills_raw,41,1.62,0.5,0.2,6.3,0.0,C (1-2%),True,Data Engineer,13.1,25.14,"Data Engineer (13.1%, lift 25.14)",True,role_core,apache hadoop
+Serverless,Cloud,Platform,hard,skills_raw,41,1.62,1.3,3.0,0.0,0.0,C (1-2%),False,,,,,False,,
+ArgoCD,DevOps & Infra,Tooling,hard,skills_raw,41,1.62,0.9,3.5,0.0,0.0,C (1-2%),True,DevOps/SRE,11.4,42.26,"DevOps/SRE (11.4%, lift 42.26)",True,role_core,argo cd; argo
+gRPC,Architecture & API,Design,hard,skills_raw,41,1.62,1.6,2.6,0.0,0.0,C (1-2%),False,,,,,False,,
+Data Analysis,Data Analytics & BI,Analytics/BI,hard,skills_raw,40,1.58,3.6,0.0,0.0,0.0,C (1-2%),True,Data Analyst,12.9,14.67,"Data Analyst (12.9%, lift 14.67)",True,role_core,data analytics; analytics
+Use Case,BA/PM & Product,BA/PM,hard,skills_raw,40,1.58,0.0,0.0,7.7,0.0,C (1-2%),False,,,,,False,,use cases
+Looker,Data Analytics & BI,Analytics/BI,hard,skills_raw,39,1.54,0.3,0.0,6.9,0.0,C (1-2%),True,Data Analyst,17.7,32.44,"Data Analyst (17.7%, lift 32.44)",True,role_core,looker studio; google data studio; data studio
+WebSocket,Architecture & API,Design,hard,skills_raw,39,1.54,1.6,2.4,0.0,0.0,C (1-2%),False,,,,,False,,websockets
+Figma,Design/UI-UX,Design,hard,skills_raw,39,1.54,1.4,2.5,0.2,0.0,C (1-2%),True,Frontend,11.3,10.87,"Frontend (11.3%, lift 10.87)",True,role_core,
+PCI DSS,Security,Security,hard,skills_raw,37,1.46,0.1,4.1,0.0,0.0,C (1-2%),True,Security,11.8,24.71,"Security (11.8%, lift 24.71)",True,role_core,
+NestJS,Backend Framework,Framework,hard,skills_raw,36,1.42,1.3,2.5,0.0,0.0,C (1-2%),False,,,,,False,,
+Confluence,Methodology & Tools,Process/Tool,hard,skills_raw,36,1.42,1.3,1.1,2.1,0.0,C (1-2%),False,,,,,False,,
+CISSP,Certification,Cert,hard,skills_raw,35,1.38,0.0,4.0,0.0,0.0,C (1-2%),True,Security,14.5,111.49,"Security (14.5%, lift 111.49)",True,role_core,
+Postman,Testing/QA,Testing,hard,skills_raw,35,1.38,2.2,0.9,0.4,0.0,C (1-2%),True,QA/Tester,15.1,19.27,"QA/Tester (15.1%, lift 19.27)",True,role_core,
+PowerShell,Programming Language,Language,hard,skills_raw,34,1.34,0.5,3.2,0.0,0.0,C (1-2%),True,Security,10.0,19.16,"Security (10.0%, lift 19.16)",True,role_core,
+Databricks,Data Engineering,Pipeline/Platform,hard,skills_raw,34,1.34,0.8,0.0,4.8,0.0,C (1-2%),True,Data Engineer,11.3,28.89,"Data Engineer (11.3%, lift 28.89)",True,role_core,
+Pandas,AI/ML,ML/AI,hard,skills_raw,34,1.34,0.3,0.0,6.0,0.0,C (1-2%),True,Data Scientist,16.7,17.86,"Data Scientist (16.7%, lift 17.86)",True,role_core,
+Datadog,DevOps & Infra,Tooling,hard,skills_raw,34,1.34,0.0,3.8,0.0,0.0,C (1-2%),False,,,,,False,,
+ClickHouse,Database & Storage,Database,hard,skills_raw,33,1.3,0.3,0.8,4.4,0.0,C (1-2%),False,,,,,False,,
+scikit-learn,AI/ML,ML/AI,hard,skills_raw,33,1.3,0.2,0.0,5.6,18.2,C (1-2%),True,Data Scientist,28.8,50.69,"Data Scientist (28.8%, lift 50.69)",True,role_core,sklearn
+Selenium,Testing/QA,Testing,hard,skills_raw,33,1.3,2.4,0.7,0.0,0.0,C (1-2%),True,QA/Tester,15.1,21.53,"QA/Tester (15.1%, lift 21.53)",True,role_core,
+CRM,Business & Domain,Platform,hard,skills_raw,33,1.3,1.3,0.0,3.5,0.0,C (1-2%),True,PM/BA,8.2,9.33,"PM/BA (8.2%, lift 9.33)",True,role_core,
+Ruby,Programming Language,Language,hard,skills_raw,32,1.26,1.2,2.1,0.0,0.0,C (1-2%),False,,,,,True,prog_language,
+Flink,Data Engineering,Pipeline/Platform,hard,skills_raw,32,1.26,0.5,1.2,2.9,0.0,C (1-2%),True,Data Engineer,8.1,13.37,"Data Engineer (8.1%, lift 13.37)",True,role_core,apache flink
+C++,Programming Language,Language,hard,skills_raw,31,1.22,2.8,0.0,0.0,0.0,C (1-2%),False,,,,,True,prog_language,cpp
+Redshift,Data Engineering,Pipeline/Platform,hard,skills_raw,31,1.22,0.0,0.0,6.0,0.0,C (1-2%),True,Data Engineer,11.3,43.34,"Data Engineer (11.3%, lift 43.34)",True,role_core,
+Networking,DevOps & Infra,Tooling,hard,skills_raw,31,1.22,2.8,0.0,0.0,0.0,C (1-2%),False,,,,,False,,network; tcp/ip
+IDS/IPS,Security,Security,hard,skills_raw,31,1.22,0.5,2.8,0.0,0.0,C (1-2%),True,Security,13.6,313.57,"Security (13.6%, lift 313.57)",True,role_core,ids; ips; intrusion detection
+Express,Backend Framework,Framework,hard,skills_raw,30,1.19,0.9,2.3,0.0,0.0,C (1-2%),False,,,,,False,,express.js
+SSO,Security,Security,hard,skills_raw,30,1.19,1.0,2.1,0.0,0.0,C (1-2%),False,,,,,False,,
+CEH,Certification,Cert,hard,skills_raw,30,1.19,0.0,3.4,0.0,0.0,C (1-2%),True,Security,13.6,inf,"Security (13.6%, lift inf)",True,role_core,
+Firebase,Cloud,Platform,hard,skills_raw,29,1.15,0.6,2.0,0.8,0.0,C (1-2%),True,Mobile,10.8,18.44,"Mobile (10.8%, lift 18.44)",True,role_core,
+Nginx,DevOps & Infra,Tooling,hard,skills_raw,29,1.15,0.7,2.4,0.0,0.0,C (1-2%),False,,,,,False,,
+Cloud Security,Security,Security,hard,skills_raw,29,1.15,2.6,0.0,0.0,0.0,C (1-2%),False,,,,,False,,
+ChatGPT,AI Dev Tools,AI coding assistant,hard,skills_raw,28,1.11,1.8,0.9,0.0,0.0,C (1-2%),False,,,,,False,,
+WAF,Security,Security,hard,skills_raw,28,1.11,0.0,3.2,0.0,0.0,C (1-2%),True,Security,11.3,87.1,"Security (11.3%, lift 87.10)",True,role_core,
+Hibernate/JPA,Backend Framework,Framework,hard,skills_raw,27,1.07,1.8,0.8,0.0,0.0,C (1-2%),False,,,,,False,,hibernate; jpa
+Gemini,AI Dev Tools,AI coding assistant,hard,skills_raw,27,1.07,1.0,1.8,0.0,0.0,C (1-2%),False,,,,,False,,google gemini
+DLP,Security,Security,hard,skills_raw,27,1.07,0.0,3.0,0.0,0.0,C (1-2%),True,Security,9.5,36.58,"Security (9.5%, lift 36.58)",True,role_core,
+OOP,Architecture & API,Design,hard,skills_raw,27,1.07,2.4,0.0,0.0,0.0,C (1-2%),False,,,,,False,,object-oriented programming; object oriented
+Product Management,BA/PM & Product,BA/PM,hard,skills_raw,27,1.07,2.2,0.2,0.0,0.0,C (1-2%),False,,,,,False,,product manager; product strategy
+Django,Backend Framework,Framework,hard,skills_raw,26,1.03,1.3,1.1,0.2,0.0,C (1-2%),False,,,,,False,,
+JUnit,Testing/QA,Testing,hard,skills_raw,26,1.03,1.3,1.2,0.0,0.0,C (1-2%),False,,,,,False,,
+Bootstrap,Frontend,Framework/Markup,hard,skills_raw,25,0.99,0.5,2.1,0.0,0.0,D (<1%),True,Frontend,12.1,29.12,"Frontend (12.1%, lift 29.12)",True,role_core,
+NIST,Security,Security,hard,skills_raw,25,0.99,0.0,2.8,0.0,0.0,D (<1%),True,Security,10.4,120.2,"Security (10.4%, lift 120.20)",True,role_core,nist csf
+OSCP,Certification,Cert,hard,skills_raw,25,0.99,0.0,2.8,0.0,0.0,D (<1%),True,Security,11.3,inf,"Security (11.3%, lift inf)",True,role_core,
+OpenAPI/Swagger,Architecture & API,Design,hard,skills_raw,24,0.95,1.3,0.8,0.4,0.0,D (<1%),False,,,,,False,,openapi; swagger
+Ruby on Rails,Backend Framework,Framework,hard,skills_raw,23,0.91,1.0,1.4,0.0,0.0,D (<1%),False,,,,,False,,rails; ror
+Jetpack Compose,Mobile,Platform/Framework,hard,skills_raw,23,0.91,0.2,2.4,0.0,0.0,D (<1%),True,Mobile,15.8,378.59,"Mobile (15.8%, lift 378.59)",True,role_core,
+Splunk,DevOps & Infra,Tooling,hard,skills_raw,23,0.91,0.3,2.3,0.0,0.0,D (<1%),False,,,,,False,,
+CISM,Certification,Cert,hard,skills_raw,23,0.91,0.0,2.6,0.0,0.0,D (<1%),True,Security,10.0,229.95,"Security (10.0%, lift 229.95)",True,role_core,
+Cypress,Testing/QA,Testing,hard,skills_raw,23,0.91,1.3,0.9,0.0,0.0,D (<1%),False,,,,,False,,
+System Administration,Other Tech,Other,hard,skills_raw,23,0.91,2.1,0.0,0.0,0.0,D (<1%),False,,,,,False,,system admin; sysadmin; windows server; active directory
+CircleCI,DevOps & Infra,Tooling,hard,skills_raw,22,0.87,1.1,1.1,0.0,0.0,D (<1%),False,,,,,False,,
+Jest,Testing/QA,Testing,hard,skills_raw,22,0.87,0.3,2.1,0.0,0.0,D (<1%),True,Frontend,8.9,19.41,"Frontend (8.9%, lift 19.41)",True,role_core,
+Domain-Driven Design,Architecture & API,Design,hard,skills_raw,22,0.87,0.9,1.4,0.0,0.0,D (<1%),False,,,,,False,,ddd
+Maven/Gradle,Methodology & Tools,Process/Tool,hard,skills_raw,22,0.87,0.9,1.4,0.0,0.0,D (<1%),False,,,,,False,,maven; gradle
+Flask,Backend Framework,Framework,hard,skills_raw,21,0.83,1.1,0.8,0.4,0.0,D (<1%),False,,,,,False,,
+OpenTelemetry,DevOps & Infra,Tooling,hard,skills_raw,21,0.83,0.0,2.4,0.0,0.0,D (<1%),False,,,,,False,,otel
+Laravel,Backend Framework,Framework,hard,skills_raw,20,0.79,1.1,0.9,0.0,0.0,D (<1%),False,,,,,False,,
+Pub/Sub,Data Engineering,Pipeline/Platform,hard,skills_raw,20,0.79,0.6,1.5,0.0,0.0,D (<1%),False,,,,,False,,pubsub; google pub/sub
+Vault,DevOps & Infra,Tooling,hard,skills_raw,20,0.79,0.0,2.3,0.0,0.0,D (<1%),False,,,,,False,,hashicorp vault
+User Story,BA/PM & Product,BA/PM,hard,skills_raw,20,0.79,1.2,0.0,1.3,0.0,D (<1%),True,PM/BA,11.0,65.34,"PM/BA (11.0%, lift 65.34)",True,role_core,user stories
+A/B Testing,Data Analytics & BI,Analytics/BI,hard,skills_raw,19,0.75,0.3,0.0,3.1,0.0,D (<1%),False,,,,,False,,ab testing; a/b test; experimentation
+LangChain,AI/ML,ML/AI,hard,skills_raw,19,0.75,0.0,0.0,3.6,0.0,D (<1%),False,,,,,False,,langgraph
+MLflow,AI/ML,ML/AI,hard,skills_raw,19,0.75,0.0,0.0,3.6,0.0,D (<1%),False,,,,,False,,
+SAST,Security,Security,hard,skills_raw,19,0.75,0.0,2.1,0.0,0.0,D (<1%),False,,,,,False,,
+Rust,Programming Language,Language,hard,skills_raw,18,0.71,0.4,1.6,0.0,0.0,D (<1%),False,,,,,False,,
+Dart,Programming Language,Language,hard,skills_raw,18,0.71,0.7,1.1,0.0,0.0,D (<1%),True,Mobile,9.4,44.74,"Mobile (9.4%, lift 44.74)",True,role_core,
+Cassandra,Database & Storage,Database,hard,skills_raw,18,0.71,0.7,1.1,0.0,0.0,D (<1%),False,,,,,False,,
+DAST,Security,Security,hard,skills_raw,18,0.71,0.0,2.0,0.0,0.0,D (<1%),False,,,,,False,,
+UML,Architecture & API,Design,hard,skills_raw,18,0.71,0.4,0.5,1.7,0.0,D (<1%),True,PM/BA,9.6,57.17,"PM/BA (9.6%, lift 57.17)",True,role_core,
+UI/UX,Design/UI-UX,Design,hard,skills_raw,18,0.71,1.6,0.0,0.0,0.0,D (<1%),False,,,,,False,,ux; ui; ux design; ui design; user experience; product design
+Sass/SCSS,Frontend,Framework/Markup,hard,skills_raw,17,0.67,0.2,1.7,0.0,0.0,D (<1%),False,,,,,False,,sass; scss
+Bitbucket,Methodology & Tools,Process/Tool,hard,skills_raw,17,0.67,0.2,1.7,0.0,0.0,D (<1%),False,,,,,False,,
+Wireframing,BA/PM & Product,BA/PM,hard,skills_raw,16,0.63,0.6,0.0,1.7,0.0,D (<1%),False,,,,,False,,wireframe; prototype; prototyping; mockup
+Tailwind CSS,Frontend,Framework/Markup,hard,skills_raw,15,0.59,0.2,1.5,0.0,0.0,D (<1%),False,,,,,False,,tailwind
+Data Science,AI/ML,ML/AI,hard,skills_raw,15,0.59,1.3,0.0,0.0,0.0,D (<1%),False,,,,,False,,data scientist
+Zero Trust,Security,Security,hard,skills_raw,15,0.59,0.3,1.4,0.0,0.0,D (<1%),False,,,,,False,,zero trust architecture
+SOC 2,Security,Security,hard,skills_raw,15,0.59,0.0,1.7,0.0,0.0,D (<1%),False,,,,,False,,
+Risk Management,Security,Security,hard,skills_raw,15,0.59,1.3,0.0,0.0,0.0,D (<1%),False,,,,,False,,
+BPMN,BA/PM & Product,BA/PM,hard,skills_raw,15,0.59,0.5,0.0,1.7,0.0,D (<1%),True,PM/BA,8.9,106.18,"PM/BA (8.9%, lift 106.18)",True,role_core,business process modeling
+Product Owner,BA/PM & Product,BA/PM,hard,skills_raw,15,0.59,1.3,0.0,0.0,0.0,D (<1%),False,,,,,False,,po
+Consulting,BA/PM & Product,BA/PM,hard,skills_raw,15,0.59,0.0,1.7,0.0,0.0,D (<1%),False,,,,,False,,it consulting
+DynamoDB,Database & Storage,Database,hard,skills_raw,14,0.55,0.7,0.7,0.0,0.0,D (<1%),False,,,,,False,,
+Vertex AI,AI/ML,ML/AI,hard,skills_raw,14,0.55,0.0,0.0,2.7,0.0,D (<1%),False,,,,,False,,
+IAM,Security,Security,hard,skills_raw,14,0.55,0.6,0.8,0.0,0.0,D (<1%),False,,,,,False,,identity & access management; identity and access management; pam; okta; keycloak
+Mockito,Testing/QA,Testing,hard,skills_raw,14,0.55,0.7,0.7,0.0,0.0,D (<1%),False,,,,,False,,
+Design Systems,Design/UI-UX,Design,hard,skills_raw,14,0.55,1.3,0.0,0.0,0.0,D (<1%),False,,,,,False,,design system
+C,Programming Language,Language,hard,skills_raw,13,0.51,1.2,0.0,0.0,0.0,D (<1%),False,,,,,False,,c language; c programming
+Objective-C,Programming Language,Language,hard,skills_raw,13,0.51,0.2,1.2,0.0,0.0,D (<1%),False,,,,,False,,objc
+Nuxt.js,Frontend,Framework/Markup,hard,skills_raw,13,0.51,0.4,0.9,0.0,0.0,D (<1%),False,,,,,False,,nuxt
+SwiftUI,Mobile,Platform/Framework,hard,skills_raw,13,0.51,0.0,1.5,0.0,0.0,D (<1%),True,Mobile,8.6,206.5,"Mobile (8.6%, lift 206.50)",True,role_core,
+OpenAI,AI/ML,ML/AI,hard,skills_raw,13,0.51,0.0,0.0,2.5,0.0,D (<1%),False,,,,,False,,openai api; gpt
+Burp Suite,Security,Security,hard,skills_raw,13,0.51,0.1,1.4,0.0,0.0,D (<1%),False,,,,,False,,burp
+SAML,Security,Security,hard,skills_raw,13,0.51,0.6,0.7,0.0,0.0,D (<1%),False,,,,,False,,
+CompTIA,Certification,Cert,hard,skills_raw,13,0.51,0.0,1.5,0.0,0.0,D (<1%),False,,,,,False,,security+; comptia security+
+CQRS,Architecture & API,Design,hard,skills_raw,13,0.51,0.6,0.7,0.0,0.0,D (<1%),False,,,,,False,,
+BRD,BA/PM & Product,BA/PM,hard,skills_raw,13,0.51,0.9,0.0,0.6,0.0,D (<1%),False,,,,,False,,
+Embedded,Other Tech,Other,hard,skills_raw,13,0.51,1.2,0.0,0.0,0.0,D (<1%),False,,,,,False,,embedded systems; firmware
+Vite,Frontend,Framework/Markup,hard,skills_raw,12,0.47,0.2,1.1,0.0,0.0,D (<1%),False,,,,,False,,
+Business Intelligence,Data Analytics & BI,Analytics/BI,hard,skills_raw,12,0.47,1.1,0.0,0.0,0.0,D (<1%),False,,,,,False,,bi; bi tools
+NumPy,AI/ML,ML/AI,hard,skills_raw,12,0.47,0.1,0.0,2.1,0.0,D (<1%),False,,,,,False,,
+SageMaker,AI/ML,ML/AI,hard,skills_raw,12,0.47,0.0,0.0,2.3,0.0,D (<1%),False,,,,,False,,amazon sagemaker
+UAT,BA/PM & Product,BA/PM,hard,skills_raw,12,0.47,0.0,0.0,2.3,0.0,D (<1%),False,,,,,False,,
+Webpack,Frontend,Framework/Markup,hard,skills_raw,11,0.43,0.0,1.2,0.0,0.0,D (<1%),False,,,,,False,,
+SOAP,Architecture & API,Design,hard,skills_raw,11,0.43,0.5,0.6,0.0,0.0,D (<1%),False,,,,,False,,
+Monolith,Architecture & API,Design,hard,skills_raw,11,0.43,0.6,0.5,0.0,0.0,D (<1%),False,,,,,False,,
+Slack,Methodology & Tools,Process/Tool,hard,skills_raw,11,0.43,0.0,1.2,0.0,0.0,D (<1%),False,,,,,False,,
+SRS,BA/PM & Product,BA/PM,hard,skills_raw,11,0.43,0.7,0.0,0.6,0.0,D (<1%),False,,,,,False,,
+SAP,Business & Domain,Platform,hard,skills_raw,11,0.43,0.8,0.0,0.4,0.0,D (<1%),False,,,,,False,,abap
+Big Data,Data Engineering,Pipeline/Platform,hard,skills_raw,10,0.4,0.8,0.0,0.0,9.1,D (<1%),False,,,,,False,,
+Superset,Data Analytics & BI,Analytics/BI,hard,skills_raw,10,0.4,0.0,0.0,1.9,0.0,D (<1%),False,,,,,False,,apache superset
+Qlik,Data Analytics & BI,Analytics/BI,hard,skills_raw,10,0.4,0.0,0.0,1.9,0.0,D (<1%),False,,,,,False,,qlikview; qlik sense
+Firewall,Security,Security,hard,skills_raw,10,0.4,0.9,0.0,0.0,0.0,D (<1%),False,,,,,False,,firewalls
+Application Security,Security,Security,hard,skills_raw,10,0.4,0.9,0.0,0.0,0.0,D (<1%),False,,,,,False,,appsec
+Metabase,Data Analytics & BI,Analytics/BI,hard,skills_raw,9,0.36,0.0,0.0,1.7,0.0,D (<1%),False,,,,,False,,
+TOGAF,Certification,Cert,hard,skills_raw,9,0.36,0.2,0.8,0.0,0.0,D (<1%),False,,,,,False,,
+SOLID,Architecture & API,Design,hard,skills_raw,9,0.36,0.8,0.0,0.0,0.0,D (<1%),False,,,,,False,,solid principles
+Xcode,Mobile,Platform/Framework,hard,skills_raw,8,0.32,0.0,0.9,0.0,0.0,D (<1%),False,,,,,False,,
+SQLite,Database & Storage,Database,hard,skills_raw,8,0.32,0.1,0.8,0.0,0.0,D (<1%),False,,,,,False,,
+MariaDB,Database & Storage,Database,hard,skills_raw,8,0.32,0.5,0.2,0.0,0.0,D (<1%),False,,,,,False,,
+Data Modeling,Data Engineering,Pipeline/Platform,hard,skills_raw,8,0.32,0.6,0.0,0.0,9.1,D (<1%),False,,,,,False,,data modelling
+Windsurf,AI Dev Tools,AI coding assistant,hard,skills_raw,8,0.32,0.1,0.8,0.0,0.0,D (<1%),False,,,,,False,,
+Istio,DevOps & Infra,Tooling,hard,skills_raw,8,0.32,0.0,0.9,0.0,0.0,D (<1%),False,,,,,False,,service mesh
+EDR,Security,Security,hard,skills_raw,8,0.32,0.7,0.0,0.0,0.0,D (<1%),False,,,,,False,,xdr
+MVVM,Architecture & API,Design,hard,skills_raw,8,0.32,0.7,0.0,0.0,0.0,D (<1%),False,,,,,False,,
+Unity,Other Tech,Other,hard,skills_raw,8,0.32,0.7,0.0,0.0,0.0,D (<1%),False,,,,,False,,
+Adobe Creative Suite,Design/UI-UX,Design,hard,skills_raw,8,0.32,0.7,0.0,0.0,0.0,D (<1%),False,,,,,False,,adobe; photoshop; adobe photoshop; illustrator
+Agentic AI,AI/ML,ML/AI,hard,skills_raw,7,0.28,0.6,0.0,0.0,0.0,D (<1%),False,,,,,False,,ai agent; ai agents; agentic; multi-agent
+Wireshark,Security,Security,hard,skills_raw,7,0.28,0.0,0.8,0.0,0.0,D (<1%),False,,,,,False,,
+Incident Response,Security,Security,hard,skills_raw,7,0.28,0.6,0.0,0.0,0.0,D (<1%),False,,,,,False,,dfir
+Data Structures & Algorithms,Architecture & API,Design,hard,skills_raw,7,0.28,0.6,0.0,0.0,0.0,D (<1%),False,,,,,False,,algorithms; data structures; dsa
+Blockchain,Other Tech,Other,hard,skills_raw,7,0.28,0.6,0.0,0.0,0.0,D (<1%),False,,,,,False,,web3; smart contract; smart contracts; solidity
+IT Support,Other Tech,Other,hard,skills_raw,7,0.28,0.6,0.0,0.0,0.0,D (<1%),False,,,,,False,,helpdesk
+Hive,Data Engineering,Pipeline/Platform,hard,skills_raw,6,0.24,0.0,0.0,1.2,0.0,D (<1%),False,,,,,False,,
+Prompt Engineering,AI/ML,ML/AI,hard,skills_raw,6,0.24,0.5,0.0,0.0,0.0,D (<1%),False,,,,,False,,
+Supabase,Cloud,Platform,hard,skills_raw,6,0.24,0.0,0.7,0.0,0.0,D (<1%),False,,,,,False,,
+VMware,DevOps & Infra,Tooling,hard,skills_raw,6,0.24,0.5,0.0,0.0,0.0,D (<1%),False,,,,,False,,vsphere
+SOAR,Security,Security,hard,skills_raw,6,0.24,0.5,0.0,0.0,0.0,D (<1%),False,,,,,False,,
+GRC,Security,Security,hard,skills_raw,6,0.24,0.5,0.0,0.0,0.0,D (<1%),False,,,,,False,,"governance, risk & compliance; governance; risk & compliance; compliance"
+Enterprise Architecture,Architecture & API,Design,hard,skills_raw,6,0.24,0.5,0.0,0.0,0.0,D (<1%),False,,,,,False,,
+Presales,BA/PM & Product,BA/PM,hard,skills_raw,6,0.24,0.5,0.0,0.0,0.0,D (<1%),False,,,,,False,,presale
+Shopify,Business & Domain,Platform,hard,skills_raw,6,0.24,0.5,0.0,0.0,0.0,D (<1%),False,,,,,False,,
+Microsoft Fabric,Data Engineering,Pipeline/Platform,hard,skills_raw,5,0.2,0.0,0.0,1.0,0.0,D (<1%),False,,,,,False,,fabric
+Kubeflow,AI/ML,ML/AI,hard,skills_raw,5,0.2,0.0,0.0,1.0,0.0,D (<1%),False,,,,,False,,
+OCR,AI/ML,ML/AI,hard,skills_raw,5,0.2,0.4,0.0,0.0,0.0,D (<1%),False,,,,,False,,
+Alibaba Cloud,Cloud,Platform,hard,skills_raw,5,0.2,0.1,0.5,0.0,0.0,D (<1%),False,,,,,False,,aliyun
+Pulumi,DevOps & Infra,Tooling,hard,skills_raw,5,0.2,0.0,0.6,0.0,0.0,D (<1%),False,,,,,False,,
+Metasploit,Security,Security,hard,skills_raw,5,0.2,0.0,0.6,0.0,0.0,D (<1%),False,,,,,False,,
+Nmap,Security,Security,hard,skills_raw,5,0.2,0.0,0.6,0.0,0.0,D (<1%),False,,,,,False,,
+pytest,Testing/QA,Testing,hard,skills_raw,5,0.2,0.3,0.2,0.0,0.0,D (<1%),False,,,,,False,,
+Unit Testing,Testing/QA,Testing,hard,skills_raw,5,0.2,0.4,0.0,0.0,0.0,D (<1%),False,,,,,False,,unit test; unit tests
+Clean Architecture,Architecture & API,Design,hard,skills_raw,5,0.2,0.4,0.0,0.0,0.0,D (<1%),False,,,,,False,,
+MVC,Architecture & API,Design,hard,skills_raw,5,0.2,0.4,0.0,0.0,0.0,D (<1%),False,,,,,False,,
+Trello,Methodology & Tools,Process/Tool,hard,skills_raw,5,0.2,0.4,0.1,0.0,0.0,D (<1%),False,,,,,False,,
+Odoo,Business & Domain,Platform,hard,skills_raw,5,0.2,0.4,0.0,0.0,0.0,D (<1%),False,,,,,False,,
+Power Automate,Business & Domain,Platform,hard,skills_raw,5,0.2,0.4,0.0,0.0,0.0,D (<1%),False,,,,,False,,power apps
+VBA,Programming Language,Language,hard,skills_raw,4,0.16,0.1,0.0,0.6,0.0,D (<1%),False,,,,,False,,
+Neo4j,Database & Storage,Database,hard,skills_raw,4,0.16,0.1,0.3,0.0,0.0,D (<1%),False,,,,,False,,
+NiFi,Data Engineering,Pipeline/Platform,hard,skills_raw,4,0.16,0.0,0.0,0.8,0.0,D (<1%),False,,,,,False,,apache nifi
+Talend,Data Engineering,Pipeline/Platform,hard,skills_raw,4,0.16,0.0,0.0,0.8,0.0,D (<1%),False,,,,,False,,
+Informatica,Data Engineering,Pipeline/Platform,hard,skills_raw,4,0.16,0.0,0.0,0.8,0.0,D (<1%),False,,,,,False,,
+SSIS,Data Engineering,Pipeline/Platform,hard,skills_raw,4,0.16,0.0,0.0,0.8,0.0,D (<1%),False,,,,,False,,
+Azure Synapse,Data Engineering,Pipeline/Platform,hard,skills_raw,4,0.16,0.0,0.0,0.8,0.0,D (<1%),False,,,,,False,,synapse
+Data Quality,Data Engineering,Pipeline/Platform,hard,skills_raw,4,0.16,0.4,0.0,0.0,0.0,D (<1%),False,,,,,False,,data quality tools; great expectations
+JMeter,Testing/QA,Testing,hard,skills_raw,4,0.16,0.4,0.0,0.0,0.0,D (<1%),False,,,,,False,,apache jmeter
+Integration Testing,Testing/QA,Testing,hard,skills_raw,4,0.16,0.4,0.0,0.0,0.0,D (<1%),False,,,,,False,,integration test
+Waterfall,Methodology & Tools,Process/Tool,hard,skills_raw,4,0.16,0.4,0.0,0.0,0.0,D (<1%),False,,,,,False,,waterfall methodology
+SDLC,Methodology & Tools,Process/Tool,hard,skills_raw,4,0.16,0.0,0.0,0.8,0.0,D (<1%),False,,,,,False,,
+Diagramming Tools,BA/PM & Product,BA/PM,hard,skills_raw,4,0.16,0.0,0.0,0.8,0.0,D (<1%),False,,,,,False,,visio; draw.io
+WordPress,Business & Domain,Platform,hard,skills_raw,4,0.16,0.4,0.0,0.0,0.0,D (<1%),False,,,,,False,,
+HRM/HCM,Business & Domain,Platform,hard,skills_raw,4,0.16,0.4,0.0,0.0,0.0,D (<1%),False,,,,,False,,hrm; hcm; hris
+Core Banking,Business & Domain,Platform,hard,skills_raw,4,0.16,0.0,0.0,0.8,0.0,D (<1%),False,,,,,False,,
+MyBatis,Backend Framework,Framework,hard,skills_raw,3,0.12,0.2,0.1,0.0,0.0,D (<1%),False,,,,,False,,
+Data Mining,Data Analytics & BI,Analytics/BI,hard,skills_raw,3,0.12,0.3,0.0,0.0,0.0,D (<1%),False,,,,,False,,
+Hugging Face,AI/ML,ML/AI,hard,skills_raw,3,0.12,0.0,0.0,0.6,0.0,D (<1%),False,,,,,False,,transformers
+Data Privacy,Security,Security,hard,skills_raw,3,0.12,0.3,0.0,0.0,0.0,D (<1%),False,,,,,False,,data privacy / compliance; gdpr; privacy
+ITIL,Certification,Cert,hard,skills_raw,3,0.12,0.3,0.0,0.0,0.0,D (<1%),False,,,,,False,,itil foundation
+Appium,Testing/QA,Testing,hard,skills_raw,3,0.12,0.3,0.0,0.0,0.0,D (<1%),False,,,,,False,,
+Middleware,Architecture & API,Design,hard,skills_raw,3,0.12,0.3,0.0,0.0,0.0,D (<1%),False,,,,,False,,
+Kanban,Methodology & Tools,Process/Tool,hard,skills_raw,3,0.12,0.2,0.0,0.2,0.0,D (<1%),False,,,,,False,,
+PowerPoint,Methodology & Tools,Process/Tool,hard,skills_raw,3,0.12,0.0,0.0,0.6,0.0,D (<1%),False,,,,,False,,microsoft powerpoint
+jQuery,Frontend,Framework/Markup,hard,skills_raw,2,0.08,0.2,0.0,0.0,0.0,D (<1%),False,,,,,False,,
+Vulnerability Management,Security,Security,hard,skills_raw,2,0.08,0.2,0.0,0.0,0.0,D (<1%),False,,,,,False,,vulnerability assessment; vulnerability scanning
+Robot Framework,Testing/QA,Testing,hard,skills_raw,2,0.08,0.2,0.0,0.0,0.0,D (<1%),False,,,,,False,,
+k6,Testing/QA,Testing,hard,skills_raw,2,0.08,0.2,0.0,0.0,0.0,D (<1%),False,,,,,False,,
+Statistics,Data Analytics & BI,Analytics/BI,hard,skills_raw,1,0.04,0.1,0.0,0.0,0.0,D (<1%),False,,,,,False,,statistical analysis
+Data Visualization,Data Analytics & BI,Analytics/BI,hard,skills_raw,0,0.0,0.0,0.0,0.0,0.0,D (<1%),False,,,,,False,,data viz; visualization; dashboard; dashboards
+Infrastructure as Code,DevOps & Infra,Tooling,hard,skills_raw,0,0.0,0.0,0.0,0.0,0.0,D (<1%),False,,,,,False,,iac
+Observability,DevOps & Infra,Tooling,hard,skills_raw,0,0.0,0.0,0.0,0.0,0.0,D (<1%),False,,,,,False,,monitoring; logging; apm
+CISA,Certification,Cert,hard,skills_raw,0,0.0,0.0,0.0,0.0,0.0,D (<1%),False,,,,,False,,
+Performance Testing,Testing/QA,Testing,hard,skills_raw,0,0.0,0.0,0.0,0.0,0.0,D (<1%),False,,,,,False,,load testing; performance test
+Design Patterns,Architecture & API,Design,hard,skills_raw,0,0.0,0.0,0.0,0.0,0.0,D (<1%),False,,,,,False,,design pattern
+Salesforce,Business & Domain,Platform,hard,skills_raw,0,0.0,0.0,0.0,0.0,0.0,D (<1%),False,,,,,False,,
+English,Soft Skill,Language,soft,jd_text,883,34.53,16.2,50.4,46.5,18.2,A (>=5%),False,,,,,True,language,tieng anh; ielts; toeic; toefl; english communication; fluent english
+Communication,Soft Skill,Interpersonal,soft,jd_text,585,22.88,7.7,35.4,33.7,9.1,A (>=5%),False,,,,,False,,communication skills; giao tiep; interpersonal skills; presentation skills
+Problem Solving,Soft Skill,Cognitive,soft,jd_text,509,19.91,7.4,29.9,29.7,0.0,A (>=5%),False,,,,,False,,giai quyet van de
+Leadership,Soft Skill,Management,soft,jd_text,449,17.56,14.5,24.2,13.0,18.2,A (>=5%),False,,,,,False,,leadership skills; lanh dao
+Team Management,Soft Skill,Management,soft,jd_text,239,9.35,8.2,12.3,7.1,0.0,A (>=5%),False,,,,,False,,people management; team leadership; mentoring; coaching
+Critical Thinking,Soft Skill,Cognitive,soft,jd_text,229,8.96,4.1,9.2,18.1,18.2,A (>=5%),False,,,,,False,,analytical thinking; analytical skills; logical thinking
+Teamwork,Soft Skill,Interpersonal,soft,jd_text,200,7.82,3.3,13.0,8.6,9.1,A (>=5%),False,,,,,False,,team work; team player; collaboration; lam viec nhom
+Attention to Detail,Soft Skill,Cognitive,soft,jd_text,142,5.55,2.8,5.4,11.5,0.0,A (>=5%),False,,,,,False,,detail-oriented
+Stakeholder Management,Soft Skill,Management,soft,jd_text,142,5.55,3.7,6.4,7.7,18.2,A (>=5%),False,,,,,False,,stakeholder; stakeholders
+Adaptability,Soft Skill,Interpersonal,soft,jd_text,111,4.34,2.1,6.0,6.2,9.1,B (2-5%),False,,,,,False,,adaptable; flexibility
+Japanese,Soft Skill,Language,soft,jd_text,81,3.17,3.1,4.5,1.3,0.0,B (2-5%),False,,,,,True,language,japanese it communication; jlpt; tieng nhat
+Time Management,Soft Skill,Cognitive,soft,jd_text,45,1.76,0.3,3.0,2.7,0.0,C (1-2%),False,,,,,False,,organization; organizational skills
+Chinese,Soft Skill,Language,soft,jd_text,18,0.7,0.5,1.4,0.0,0.0,D (<1%),False,,,,,False,,mandarin; tieng trung; hsk
+German,Soft Skill,Language,soft,jd_text,16,0.63,0.4,1.2,0.2,0.0,D (<1%),False,,,,,False,,
+French,Soft Skill,Language,soft,jd_text,13,0.51,0.5,0.7,0.2,0.0,D (<1%),False,,,,,True,language,
+Korean,Soft Skill,Language,soft,jd_text,5,0.2,0.4,0.1,0.0,0.0,D (<1%),False,,,,,False,,tieng han; topik
